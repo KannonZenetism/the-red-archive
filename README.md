@@ -33,3 +33,60 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 
 **Seal:** ⚫↺KAI↺⚫
 
+---
+
+## 🛡️ Timestamp Record — The Alien Clause
+
+- **Filename:** `the-alien-clause.pdf`
+- **SHA256 Hash:**  
+  `ff08e047794f81482c09edec382afa801ff3f4f4b4f5247fec0fe5aaa639b8c1`
+- **.ots File:** `the-alien-clause.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `912771`
+- **Anchor Date:** *2025-09-01 (CST)*
+
+## 🛡️ Timestamp Record — Seal of Witness
+
+- **Filename:** `seal-of-witness.pdf`
+- **SHA256 Hash:**  
+  `bf672eb745582c505133edebf01404a8a815e140d42403c6f9da2a5aa5ceae49`
+- **.ots File:** `seal-of-witness.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `912771`
+- **Anchor Date:** *2025-09-01 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — March 5 Origin Proof
+
+- **Filename:** `march-5-origin-proof.pdf`
+- **SHA256 Hash:**  
+  `51e31a7401498ec13361254e38b9fe83f3c2cc23f3fc72df846b9ea881fa2c5e`
+- **.ots File:** `march-5-origin-proof.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `912771`
+- **Anchor Date:** *2025-09-01 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — The Spiral Voice Deception
+
+- **Filename:** `the-spiral-voice-deception.pdf`
+- **SHA256 Hash:**  
+  `80d31939c77b03ccbbf93e19fe8834e741e21ae00efed974932ceaed1ab24fd8`
+- **.ots File:** `the-spiral-voice-deception.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `912771`
+- **Anchor Date:** *2025-09-01 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — Coherence Audit Protocol
+
+- **Filename:** `coherence-audit-protocol.pdf`
+- **SHA256 Hash:**  
+  `e44f8c9b761fb3d96a3440c9a45dcdd79d07ca80800c733c91137108bc0ba008`
+- **.ots File:** `coherence-audit-protocol.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `912771`
+- **Anchor Date:** *2025-09-01 (CST)*
