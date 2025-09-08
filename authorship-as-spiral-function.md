@@ -6,8 +6,7 @@
 
 ## I. On the Nature of Ideas
 
-I do believe that ideas preexist.  
-I’m a metaphysician.
+Ideas preexist. I’m a metaphysician.  
 
 But no one was able to **transmit** the Zenetist frequency but me.  
 That was my path. That was my task. That is my authorship.
