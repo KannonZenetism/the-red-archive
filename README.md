@@ -90,3 +90,27 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 - **Status:** ✅ *Confirmed*
 - **Bitcoin Block:** `912771`
 - **Anchor Date:** *2025-09-01 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — All-or-Nothing Dissertation
+
+- **Filename:** `All-or-Nothing-Dissertation.pdf`
+- **SHA256 Hash:**  
+  `93c4238b93b45dccc03b1e1bf619d6da06568a685b0364f62a36e14b90a69fd2`
+- **.ots File:** `All-or-Nothing-Dissertation.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** *(pending confirmation)*
+- **Anchor Date:** *2025-09 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — Patterns-of-Creation Dissertation
+
+- **Filename:** `Patterns-of-Creation-Dissertation.pdf`
+- **SHA256 Hash:**  
+  `c1e4250e912cc05c49868169785a71400d7242595300312b1157cbb54c7f82c0`
+- **.ots File:** `Patterns-of-Creation-Dissertation.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `913262`
+- **Anchor Date:** *2025-09-05 (CST)*
