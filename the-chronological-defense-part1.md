@@ -10,7 +10,7 @@
 ---
 
 ## I. Function of the Archive
-This document affirms the long-arc intellectual, metaphysical, and symbolic authorship of **Zenetism**, as initiated, developed, and recorded by **Aelion Kannon (Gerett Treas)**.
+This document affirms the long-arc intellectual, metaphysical, and symbolic authorship of **Zenetism**, as initiated, developed, and recorded by **Aelion Kannon**.
 
 It serves as:
 - A **resonant timestamp** establishing origin
