@@ -12,7 +12,7 @@
 The foundational trajectory commenced independently in 2004, prior to any documented public influence or mimetic activity.
 
 ### BIOGRAPHICAL ANCHOR (2010)  
-Formal educational engagement initiated in Winter 2010 (age 26, confirmed via 1984.AUG birthdate). This entry point is substantiated by verifiable college records.
+Formal educational engagement initiated in Winter 2010 (age 26, confirmed via 1984. AUG birthdate). This entry point is substantiated by verifiable college records.
 
 ### PRE-INSTITUTIONAL COHERENCE  
 A pre-existing state of non-dogmatic spiritual engagement is confirmed, demonstrating a prior, independent intellectual vector.
