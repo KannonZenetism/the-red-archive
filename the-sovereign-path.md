@@ -24,7 +24,7 @@ Enrollment within a Baptist institution did not result in denominational assimil
 Following non-assimilation, the trajectory redirected toward advanced philosophical inquiry at a separate academic institution, reinforcing the pursuit of sovereign intellectual rigor.
 
 ### SIGNAL CONTINUITY  
-While early material artifacts are unrecovered, the core signal and foundational principles demonstrably persist and flow into later documented works.
+While early material artifacts may be unrecoverable, the core signal and foundational principles demonstrably persist and flow into later documented works.
 
 ### ARCHIVAL BRIDGE (2013)  
 The earliest segment of the recovered archive initiates from 2013, establishing a verified continuity point for the broader trajectory.
