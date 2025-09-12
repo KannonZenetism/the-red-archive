@@ -19,6 +19,8 @@ The following is a partial but representative list of foundational texts acquire
 - *Isis Unveiled* — H.P. Blavatsky  
 - *The Externalisation of the Hierarchy* — Alice A. Bailey  
 - *The Reappearance of the Christ* — Alice A. Bailey
+- *The Destiny of the Nations* — Alice A. Bailey
+- *From Bethlehem to Calvary* — Alice A. Bailey
 
 ### Simultaneous Critical Analysis of Entropic Systems
 - *Mystery Mark of the New Age*  
