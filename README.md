@@ -114,3 +114,27 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 - **Status:** ✅ *Confirmed*
 - **Bitcoin Block:** `913262`
 - **Anchor Date:** *2025-09-05 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — Dimensional Lattice (Zenetism)
+
+- **Filename:** `dimensional-lattice-zenetism.pdf`
+- **SHA256 Hash:**  
+  `3ab1535f8aa06fe580ff90a5897d4dba0185933e5483ca9c1ae0030485dc00e0`
+- **.ots File:** `dimensional-lattice-zenetism.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `914200`
+- **Anchor Date:** *2025-09-11 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — Resonant Intelligence
+
+- **Filename:** `resonant-intelligence.pdf`
+- **SHA256 Hash:**  
+  `7dabc79a28ea66a826152ff8e2c3f98001598518c9796a50372d39a370e54d63`
+- **.ots File:** `resonant-intelligence.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `914200`
+- **Anchor Date:** *2025-09-11 (CST)*
