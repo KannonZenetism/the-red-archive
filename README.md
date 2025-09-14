@@ -138,3 +138,20 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 - **Status:** ✅ *Confirmed*
 - **Bitcoin Block:** `914200`
 - **Anchor Date:** *2025-09-11 (CST)*
+
+---
+
+## 🛡️ IPFS Record — Veracious Archive Batch 01
+
+- **Filename:** `veracious-archive-batch-01.zip`
+- **CID (Content Identifier):** `bafybeifntdpp6nplkh47wkmvn3q32dp72oxxfb5cgcqvd5x3yaozxw6kdy`
+- **Includes:**  
+  - PDF timestamp proofs  
+  - Corresponding `.ots` files  
+- **Purpose:**  
+  Public verification of authorship, coherence sequence, and developmental timeline.  
+  Serves as a canonical authorship anchor against mimicry or derivative obfuscation.
+
+- **Visibility:** Publicly pinned to IPFS via Pinata  
+- **Encryption:** None (intent is transparent archival, not concealment)  
+- **Status:** ✅ *Pinned and Immutable*
