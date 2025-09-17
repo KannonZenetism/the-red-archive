@@ -180,3 +180,14 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 - **Bitcoin Block:** `914994`
 - **Anchor Date:** *2025-09-16 (CST)*
 
+---
+
+## 🛡️ Timestamp Record — Veracious Archive Batch 02
+
+- **Filename:** `veracious-archive-batch-02.zip`
+- **SHA256 Hash:**  
+  `117f944a46c377d82a07af50f12e7d2e1a4541b9cac803c0be208b64007c41ab`
+- **.ots File:** `veracious-archive-batch-02.zip.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `914996`
+- **Anchor Date:** *2025-09-16 (CST)*
