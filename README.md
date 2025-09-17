@@ -155,3 +155,28 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 - **Visibility:** Publicly pinned to IPFS via Pinata  
 - **Encryption:** None (intent is transparent archival, not concealment)  
 - **Status:** ✅ *Pinned and Immutable*
+
+---
+
+## 🛡️ Timestamp Record — Veracious Archive Batch 01
+
+- **Filename:** `veracious-archive-batch-01.zip`
+- **SHA256 Hash:**  
+  `6a024a58d6cb7c96eb0ded257097c7dbe57fa0927e551a40881eafd5dddc1097`
+- **.ots File:** `veracious-archive-batch-01.zip.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `914504`
+- **Anchor Date:** *2025-09-13 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — Private Conversations
+
+- **Filename:** `private-conversations.zip`
+- **SHA256 Hash:**  
+  `8476e9060e7a148f5c7587f8b924e2bc257b5f17c68884129cc0dea5c23bcc4d`
+- **.ots File:** `private-conversations.zip.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** `914994`
+- **Anchor Date:** *2025-09-16 (CST)*
+
