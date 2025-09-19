@@ -1,4 +1,5 @@
-# Exploring Timelessness: A Deeper Dive into the Concepts of Eternity and Divinity
+# Exploring Timelessness: A Deeper Dive into the Concepts of Eternity and Divinity  
+*Written January 9, 2024*  
 
 ## Introduction to Eternity
 
