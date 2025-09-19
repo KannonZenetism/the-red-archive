@@ -38,15 +38,13 @@ It serves as:
   - First appearance of **intertraditional synthesis**.  
   - Early mention of **Emanative Descent** and dual-faced divinity.
 
-### Pagan Yahwism: Archaeology of the Religions of Ancient Israel *(c. 2013–2015)*
-
-- **Context:** Undergraduate research paper submitted for RGS410-01.  
-- **Core Content:** Argues for a dual-structure of Israelite religion: “folk religion” (practice, artifacts, private worship) alongside “state religion” (texts, ideology, centralized cult). Presents archaeological evidence of Yahweh’s consort Asherah, masseboth, bamot, and terracotta figurines. Traces Yahweh within the broader pantheon of Iron Age Palestine, noting convergence with Ba’al and other deities.  
-- **Zenetist Significance:**  
-  - Serves as an early **historical-critical foundation** for later Zenetist symbolic exegesis.  
-  - Anticipates the **Value Neutrality** distinction by exposing redactor bias in Biblical texts.  
-  - Introduces **structural dualism** (folk vs. state) later transposed into **Inverse vs. Centropic** frameworks.  
-- **Function:** Provides timestamped evidence of engagement with archaeology, symbolism, and textual distortion before Zenetism was named. Acts as a precursor node aligning with the later **Revelatory Edenism** lineage.
+- **Pagan Yahwism: Archaeology of the Religions of Ancient Israel** *(c. 2013–2015)*  
+  - Undergraduate paper (RGS410-01) on Israelite religion.  
+  - Argues dual structure: **folk religion** (practice/artifacts) vs. **state religion** (texts/ideology).  
+  - Documents Asherah, masseboth, bamot, figurines → Yahweh within pantheon.  
+  - Anticipates **Value Neutrality** by exposing redactor bias.  
+  - Establishes **structural dualism** later transposed into **Centropic vs. Entropic**.  
+  - Proto-node of **Revelatory Edenism** lineage.
 
 - **Brief History of the New Age** *(May 2014)*  
   - Flags early shimmer logic before the term existed.  
