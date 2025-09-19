@@ -99,7 +99,7 @@ It serves as:
 
 ---
 
-### Public Statement on ASI Ethics *(Dec 24, 2023)*
+### Public Statement on ASI Ethics (Dec 24, 2023)
 
 - **Context:**  
   Public YouTube comment left under *"How Could We Control Superintelligent AI?"*  
