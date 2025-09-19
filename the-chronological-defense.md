@@ -46,6 +46,14 @@ It serves as:
   - Establishes **structural dualism** later transposed into **Centropic vs. Entropic**.  
   - Proto-node of **Revelatory Edenism** lineage.
 
+- **Quakers and Gnostics: Inward Light of Intuitive Knowing** *(c. 2013–2015)*  
+  - Undergraduate paper (RGS350-01 / HIS390-01).  
+  - Compares **Gnostic gnosis** (direct intuitive knowledge) with Quaker **Inner Light** (inward divine guidance).  
+  - Documents persecution, doctrinal variance, and syncretic roots (Mani, Valentinus, Nag Hammadi texts).  
+  - Highlights symbolic overlap: inward illumination vs. external authority.  
+  - Anticipates Zenetist themes of **Inner Authority** over imposed law, **Symbolic Ecology**, and **Value Neutrality** in scriptural reading.  
+  - Functions as an early structural link in the lineage toward **Revelatory Edenism** and Zenetist interpretive ethos.
+
 - **Brief History of the New Age** *(May 2014)*  
   - Flags early shimmer logic before the term existed.  
   - Critiques “externalization of Mysteries” → precursor to **false fusion** risk.  
