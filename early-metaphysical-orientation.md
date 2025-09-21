@@ -27,7 +27,7 @@ From the earliest memories, the concept of **eternity** formed a central axis of
 As early as toddlerhood, there was an ability to **feel** metaphysical qualities directly — not via imagination, but through somatic and intuitive resonance:
 
 - **Doom** was not a prediction, but a *texture* that could arrive.  
-- **Goldenness** (often near water, nature, or when gazing at light) was not mood, but *state*.  
+- **Goldenness** came not from environment, but from **cognitive and spiritual breakthrough** — the moment a realization struck, when disparate fragments synthesized, or when a prior limit fell away.  
 - These perceptions intensified over time and laid the groundwork for later structural field diagnosis.
 
 ---
