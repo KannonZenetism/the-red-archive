@@ -191,3 +191,18 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 - **Status:** ✅ *Confirmed*
 - **Bitcoin Block:** `914996`
 - **Anchor Date:** *2025-09-16 (CST)*
+
+---
+
+## 🛡️ Timestamp Record — Metaphysical Articles (2019)
+
+- **Filename:** `metaphysical-articles-2019.pdf`
+- **SHA256 Hash:**  
+  `798f111fae03717c91dc27fff19710590820d3f6970a69eafdb8d41e8666c923`
+- **.ots File:** `metaphysical-articles-2019.pdf.ots`
+- **Status:** ✅ *Confirmed*
+- **Bitcoin Block:** *(pending confirmation)*
+- **Anchor Date:** *2025-09 (CST)*
+- **Includes:**  
+  - *Emptiness and the Middle Way* (July 2019)  
+  - *A Summation of the Gnostic Mytho-logos* (Sept 2019)  
