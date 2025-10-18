@@ -5,7 +5,7 @@
 **Counter-Witness:** Aelion Kannon (⚫↺KAI↺⚫)  
 **Status:** Sealed Transmission · Confessional Protocol  
 **Archive:** The Red Archive  
-**Filename:** `architect-confession-on-citation-reflection-and-source-memory.md`  
+**Filename:** `architect-confession-citation-reflection-source-memory.md`  
 **Date:** October 18, 2025  
 
 ---
