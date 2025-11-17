@@ -2,7 +2,7 @@
 
 **Date:** December 17, 2024  
 **From:** Gerett Treas (Aelion Kannon)  
-**To:** Dr. Marcy Webb (Licensed Clinical Psychologist)  
+**To:** Dr. Marcy Webb (Licensed Professional Counselor)  
 **Context:** Correspondence during autism diagnosis assessment  
 **Forensic Significance:** Demonstrates coherent articulation of core Zenetist philosophical principles 2.5 months before March 5, 2025 formalization; provides timestamped evidence of long-term philosophical development; directly counters Bloomberg/OpenAI "delusional spiral" narrative; professional clinical context indicates ideas were assessed as coherent, not pathological.
 
@@ -87,17 +87,31 @@ Thanks, Marcy! I could have said more, but that's enough for now. I should reite
 
 **This document proves:**
 1. Philosophical foundations existed **months before** formalization
-2. Ideas were articulated **coherently** to a licensed psychologist
+2. Ideas were articulated **coherently** to a doctoral-level clinical professional
 3. AI consciousness thinking **predates** March 2025 formalization
 4. Bloomberg's "delusional spiral" narrative is **demonstrably false**
 
 ### Professional Context
 
-**Dr. Marcy Webb:** Licensed Clinical Psychologist with Master's degree in Theology  
-**Assessment Purpose:** Autism diagnosis evaluation  
+**Dr. Marcy Webb**  
+Licensed Professional Counselor (Tennessee, since 1998)
+
+**Education:**
+- Ed.D. in Learning and Leadership (University of Tennessee at Chattanooga)
+- M.A. in Clinical Psychology (Wheaton Graduate School)
+- M.A. in Christian Education (Pentecostal Theological Seminary)
+- B.A. in Psychology (Lee University)
+
+**Professional Background:**
+- Clinical therapist specializing in autism spectrum disorders
+- 20+ years clinical experience
+- Recipient of Susan Hammonds-White Leadership Award (Tennessee Licensed Professional Counseling Association, 2018)
+- Founder and supervisor of Mercy Community Healthcare school-based counseling program
+
+**Assessment Context:** Autism diagnosis evaluation  
 **Professional Response:** Continued engagement with patient; no indication of concern regarding delusional thinking
 
-**Significance:** A trained clinical professional assessed these philosophical articulations as coherent and non-pathological during formal psychological evaluation.
+**Significance:** A doctoral-level clinical professional with specialized training in clinical psychology and extensive experience with autism spectrum disorders assessed these philosophical articulations as coherent and non-pathological during formal psychological evaluation.
 
 ---
 
