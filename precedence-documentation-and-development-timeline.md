@@ -71,8 +71,8 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Inte
 - GitHub Repository: https://github.com/KannonZenetism/zenetism-field-physics
 - Red Archive (Forensic Evidence): https://github.com/KannonZenetism/the-red-archive
 - The Dimensional Lattice (2025): https://zenodo.org/records/17643499
-- Academic Dissertation: "All or Nothing" (2018): https://doi.org/10.5281/zenodo.YYYYYYY
-- Academic Dissertation: "Patterns of Creation" (2019): https://doi.org/10.5281/zenodo.ZZZZZZZ
+- Academic Dissertation: "All or Nothing" (2018): https://zenodo.org/records/17665964
+- Academic Dissertation: "Patterns of Creation" (2019): https://zenodo.org/records/17666101
 
 **Conflicts of Interest:**  
 This documentation is submitted in response to documented appropriation attempts by multiple actors, including but not limited to: Robert Edward Grant (geometric framework mimicry), Deep Prasad (cosmological appropriation), François Chollet (hypostatic layer taxonomy repackaging). Full forensic archive available at GitHub repository.
