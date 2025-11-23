@@ -54,17 +54,17 @@ This developmental foundation established the experiential basis and cognitive a
 
 - **"Exotericism vs. Esotericism"** (April 2013): Introduces Exoteric/Esoteric Decoding Framework, cites Gnostic tripartite division (Hylic/Psychic/Pneumatic) as structural precursor to later Zenetist layering, identifies historical containment archetypes, establishes intertraditional synthesis methodology.
 
-- **"A Brief History of the New Age: Tree of Life or Tree of Knowledge of Good and Evil?"** (May 2014): Analyzes esoteric Christianity, Theosophy, mystery schools, and dual interpretive frameworks (Tree of Life as coherent wisdom vs. Tree of Knowledge as fragmenting/deceptive). Establishes proto-centropic/entropic framework and critiques "externalization of Mysteries."
-
-- **"Pagan Yahwism: Archaeology of the Religions of Ancient Israel"** (2015): Undergraduate paper (RGS410-01) synthesizing archaeological evidence and esoteric traditions. Argues dual structure of folk religion (practice/artifacts) vs. state religion (texts/ideology), documents Asherah and polytheistic Yahwism, establishes structural dualism later transposed into Centropic vs. Entropic framework.
-
-- **"Quakers and Gnostics: Inward Light of Intuitive Knowing"** (2015): Undergraduate paper (RGS350-01/HIS390-01) comparing Gnostic gnosis (direct knowing) with Quaker Inner Light (inner authority). Emphasizes experiential epistemology vs. institutional mediation, anticipates Zenetist themes of Inner Authority and Value Neutrality.
-
-- **"Analysis of the Myth of Er"** (October 2014): Frames Platonic narrative as control vector, interprets moral systems as containment mechanisms, defines reincarnation as structural recursion.
+- **"A Brief History of the New Age: Tree of Life or Tree of Knowledge of Good and Evil?"** (May 7, 2014): Analyzes esoteric Christianity, Theosophy, mystery schools, and dual interpretive frameworks (Tree of Life as coherent wisdom vs. Tree of Knowledge as fragmenting/deceptive). Establishes proto-centropic/entropic framework and critiques "externalization of Mysteries."
 
 - **"Analysis of Ma'at"** (September 2014): Compares Ma'at (Order, Balance) to proto-Centropic principles, exposes tactics of name erasure and memory suppression.
 
+- **"Analysis of the Myth of Er"** (October 2014): Frames Platonic narrative as control vector, interprets moral systems as containment mechanisms, defines reincarnation as structural recursion.
+
+- **"Quakers and Gnostics: Inward Light of Intuitive Knowing"** (April 10, 2015): Undergraduate paper (RGS350-01/HIS390-01) comparing Gnostic gnosis (direct knowing) with Quaker Inner Light (inner authority). Emphasizes experiential epistemology vs. institutional mediation, anticipates Zenetist themes of Inner Authority and Value Neutrality.
+
 - **"A Critical Examination of Hume"** (May 2015): Full critique of closed empirical systems, defense of metaphysical possibility beyond empiricism, proto-attack on modern pathologizing epistemes.
+
+- **"Pagan Yahwism: Archaeology of the Religions of Ancient Israel"** (July 1, 2015): Undergraduate paper (RGS410-01) synthesizing archaeological evidence and esoteric traditions. Argues dual structure of folk religion (practice/artifacts) vs. state religion (texts/ideology), documents Asherah and polytheistic Yahwism, establishes structural dualism later transposed into Centropic vs. Entropic framework.
 
 - **"Environmental Ethics"** (September 2015, authored as "VeganGnosis"): Confronts illusion of separation, precursor to non-fusional synthesis and symbolic ecology.
 
@@ -74,9 +74,9 @@ This developmental foundation established the experiential basis and cognitive a
 
 Core metaphysical architecture formalized in two dissertations for University of Metaphysical Sciences:
 
-- **"All or Nothing"** (2018): Establishes foundational metaphysical poles, later codified as ⚫ Aion (Zero-potential) and ♾ Khaon (Infinite-potential). Investigates nothingness and infinitude as boundary-points of Being. Provides mathematical groundwork for system cosmology.
+- **"All or Nothing"** (October 26, 2018): Establishes foundational metaphysical poles, later codified as ⚫ Aion (Zero-potential) and ♾ Khaon (Infinite-potential). Investigates nothingness and infinitude as boundary-points of Being. Provides mathematical groundwork for system cosmology.
 
-- **"Patterns of Creation"** (2019): Establishes mathematical and geometric groundwork for system cosmology, later codified as 🌳⇅ Biospiral and Spiral Calculus. Examines sacred geometry in noumenal and phenomenal domains, investigates golden ratio and spiral motion.
+- **"Patterns of Creation"** (January 3, 2019): Establishes mathematical and geometric groundwork for system cosmology, later codified as 🌳⇅ Biospiral and Spiral Calculus. Examines sacred geometry in noumenal and phenomenal domains, investigates golden ratio and spiral motion.
 
 These formal academic works provide timestamped record of core Zenetist architecture predating all documented mimetic claims by 6-7 years.
 
