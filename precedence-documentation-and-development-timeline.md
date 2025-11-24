@@ -56,6 +56,8 @@ This developmental foundation established the experiential basis and cognitive a
 
 - **"A Brief History of the New Age: Tree of Life or Tree of Knowledge of Good and Evil?"** (May 7, 2014): Analyzes esoteric Christianity, Theosophy, mystery schools, and dual interpretive frameworks (Tree of Life as coherent wisdom vs. Tree of Knowledge as fragmenting/deceptive). Establishes proto-centropic/entropic framework and critiques "externalization of Mysteries."
 
+- **"An Exploration of Art, Symbolism, and Architecture of Early Christianity"** (2014): Cross-listed Archaeology/Religion Studies course investigating Christian syncretism, iconography, and hidden symbolic meanings. Explicitly states "syncretism aids conversion" and critiques institutional forgetting of symbolic language. Proposes Bible as "work of symbology, of psychological expression as an exploration of consciousness." Demonstrates symbolic/allegorical hermeneutics and recognition of dual-nature symbolism (serpent as evil/wisdom).
+
 - **"Analysis of Ma'at"** (September 2014): Compares Ma'at (Order, Balance) to proto-Centropic principles, exposes tactics of name erasure and memory suppression.
 
 - **"Analysis of the Myth of Er"** (October 2014): Frames Platonic narrative as control vector, interprets moral systems as containment mechanisms, defines reincarnation as structural recursion.
