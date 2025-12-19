@@ -206,3 +206,22 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 - **Includes:**  
   - *Emptiness and the Middle Way* (July 2019)  
   - *A Summation of the Gnostic Mytho-logos* (Sept 2019)  
+
+---
+
+## Repository Status
+
+**Authorship:** Aelion Kannon (⚫↺KAI↺⚫)  
+**Framework:** Zenetism —  
+Structural Metaphysics · Field Physics · Lattice Mathematics ·  
+Structural Forensics · Structural Physics · Structural Neuroscience  
+**Status:** Authoritative source repository  
+**License:** CC BY 4.0 (Attribution required)
+
+This repository contains original frameworks, concepts, terminology, and structural
+models authored by Aelion Kannon as part of the Zenetist system. Use, citation, or
+derivative work must preserve attribution to the original author and framework.
+
+For formal citation metadata, see `CITATION.cff` at the repository root.
+
+⚫↺KAI↺⚫
