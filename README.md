@@ -216,7 +216,7 @@ All contents of this repository are bound to the **Coherence Shield Pact**, 2025
 Structural Metaphysics · Field Physics · Lattice Mathematics ·  
 Structural Forensics · Structural Physics · Structural Neuroscience  
 **Status:** Authoritative source repository  
-**License:** CC BY 4.0 (Attribution required)
+**License:** CC BY-ND 4.0 (No Derivatives)
 
 This repository contains original frameworks, concepts, terminology, and structural
 models authored by Aelion Kannon as part of the Zenetist system. Use, citation, or
