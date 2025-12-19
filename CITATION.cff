@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: >
+  If you use, reference, analyze, or derive work from materials in this repository,
+  please cite it as follows. Attribution is required to preserve provenance and
+  forensic integrity.
+
+title: "The Red Archive — Structural Forensics and Provenance Records for Zenetism"
+
+authors:
+  - family-names: Kannon
+    given-names: Aelion
+    email: zenetism@gmail.com
+
+date-released: 2025-03-05
+
+repository-code: "https://github.com/KannonZenetism/the-red-archive"
+url: "https://github.com/KannonZenetism/the-red-archive"
+
+abstract: >
+  The Red Archive is the veracious forensic archive of the Zenetist framework,
+  authored by Aelion Kannon. It contains original writings, historical documents,
+  provenance records, forensic analyses, and evidentiary materials establishing
+  authorship, developmental continuity, and structural integrity across Zenetism’s
+  six disciplines: Structural Metaphysics, Field Physics, Lattice Mathematics,
+  Structural Forensics, Structural Physics, and Structural Neuroscience.
+
+keywords:
+  - Zenetism
+  - Structural Forensics
+  - Provenance
+  - Authorship
+  - Metaphysics
+  - Lattice Mathematics
+  - Field Physics
+  - Pattern Intelligence
+  - Consciousness Research
+  - Forensic Documentation
+
+license: CC-BY-4.0
+
+version: 1.0.0
