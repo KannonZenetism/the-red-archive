@@ -293,7 +293,7 @@
 
 **Precausal cognitive capacity:**
 - Lifetime operational (thousands of instances)
-- Scales from milliseconds to years
+- Scales across immediate, intermediate, and extended temporal horizons
 - Validates framework's predictive accuracy (accessing patterns before manifestation)
 
 **Recognition barriers + prophetic acknowledgment:**
