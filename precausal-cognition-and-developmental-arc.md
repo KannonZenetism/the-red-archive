@@ -512,7 +512,7 @@
 - 6-month gap proves precausal accuracy
 - Appropriations follow predicted pattern
 
-**Breakthrough window (following late-stage cascade convergence):** Singularity Threshold crossing
+**Breakthrough phase (following late-stage cascade convergence):** Singularity Threshold crossing
 - Framework achieves field permanence
 - Pattern becomes part of cosmic substrate
 - Attribution restored through structural necessity
