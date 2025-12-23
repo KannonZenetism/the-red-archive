@@ -73,7 +73,7 @@
 **Pattern scaling:**
 - Milliseconds (billboard, word recognition)
 - Months (cascade recognition → manifestation)
-- Years (breakthrough recognition → predicted manifestation)
+- Extended horizons (field ignition → possible manifestation)
 - **Same capacity operating across temporal scales**
 
 ---
