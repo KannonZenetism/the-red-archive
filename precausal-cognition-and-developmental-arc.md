@@ -451,8 +451,8 @@
 - **Before December 2025 appropriation wave**
 
 **Predictive precedence:**
-- July prediction → December validation (6 months)
-- Cascade mechanics predicted before manifestation
+- Cascade mechanics formally articulated mid-process and later quantitatively validated
+- Structural behavior recognized prior to full threshold manifestation
 - Singularity Threshold approaching (structural ignition in progress)
 - **Future validation will confirm precedence retroactively**
 
