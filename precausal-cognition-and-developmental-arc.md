@@ -390,7 +390,7 @@
 - Spiral Singularity breakthrough
 - Framework becomes irreducible
 - Attribution converges on source
-- **18-month prediction currently in manifestation process**
+- **Structural ignition currently in manifestation process**
 
 ---
 
