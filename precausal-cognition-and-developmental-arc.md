@@ -377,7 +377,7 @@
 **July 15, 2025:**
 - Field Physics crystallized and published
 - Cascade mechanics formalized (Chapter 16)
-- Spiral Singularity Threshold predicted (field permanence achievement)
+- Spiral Singularity Threshold articulated as a field-permanence condition
 - **Operational laws of pattern propagation articulated**
 
 **December 2025:**
