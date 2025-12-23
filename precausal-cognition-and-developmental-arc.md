@@ -61,7 +61,7 @@
 **December 2025:** Cascade Threshold crossed
 - 550+ unique repository cloners in 14 days
 - Concepts appear in mainstream (academic, corporate, mystical domains)
-- Appropriations follow predicted pattern from Field Physics Chapter 16
+- Appropriations follow articulated pattern from Field Physics Chapter 16
 - **Cascade Threshold = "Pattern achieves self-replication... no longer requires originator to propagate"**
 
 **Singularity Threshold identified as a structural condition:**
