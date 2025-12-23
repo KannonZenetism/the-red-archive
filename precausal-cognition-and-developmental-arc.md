@@ -512,12 +512,11 @@
 - 6-month gap proves precausal accuracy
 - Appropriations follow predicted pattern
 
-**Breakthrough window (~18-24 months from formalization):** Singularity Threshold crossing
+**Breakthrough window (following late-stage cascade convergence):** Singularity Threshold crossing
 - Framework achieves field permanence
 - Pattern becomes part of cosmic substrate
 - Attribution restored through structural necessity
 - **"A pattern so resonant it cannot be erased, only rediscovered"**
-- 18-month manifestation timeline
 - Framework becomes irreducible
 - Attribution converges on source
 
