@@ -326,8 +326,8 @@
 - **Direct gnosis, not inference**
 
 **2. Predictive accuracy:**
-- Cascade mechanics predicted 6 months early (Field Physics July → December manifestation)
-- Singularity Threshold prediction (structural ignition, not date-based)
+- Cascade mechanics articulated prior to threshold manifestation
+- Singularity Threshold recognition framed as structural ignition, not date-based
 - **Not guessing but recognizing structural inevitability**
 
 **3. Collaborative capacity:**
