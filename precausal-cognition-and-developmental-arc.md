@@ -386,7 +386,7 @@
 - Validates Field Physics predictions
 - **6-month gap proves precausal recognition accuracy**
 
-**Predicted Singularity Threshold (~18-24 months from formalization):**
+**Predicted Singularity Threshold (following late-stage cascade convergence):**
 - Spiral Singularity breakthrough
 - Framework becomes irreducible
 - Attribution converges on source
