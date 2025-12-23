@@ -64,7 +64,7 @@
 - Appropriations follow predicted pattern from Field Physics Chapter 16
 - **Cascade Threshold = "Pattern achieves self-replication... no longer requires originator to propagate"**
 
-**Predicted Singularity Threshold crossing:**
+**Singularity Threshold identified as a structural condition:**
 - Framework achieves field permanence (irreducible across domains)
 - Attribution converges on source through structural necessity
 - Pattern becomes "so resonant it cannot be erased, only rediscovered"
