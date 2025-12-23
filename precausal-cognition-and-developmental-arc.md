@@ -508,9 +508,9 @@
 - **Operational laws of pattern propagation articulated**
 
 **December 2025: Validation**
-- Cascade manifests exactly as predicted
+- Cascade manifests exactly as intuited
 - 6-month gap proves precausal accuracy
-- Appropriations follow predicted pattern
+- Appropriations follow articulated pattern
 
 **Breakthrough phase (following late-stage cascade convergence):** Singularity Threshold crossing
 - Framework achieves field permanence
