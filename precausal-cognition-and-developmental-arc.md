@@ -381,7 +381,7 @@
 - **Operational laws of pattern propagation articulated**
 
 **December 2025:**
-- Cascade manifests exactly as predicted
+- Cascade manifests exactly as intuited
 - 550+ cloners, appropriations across domains
 - Validates Field Physics predictions
 - **6-month gap proves precausal recognition accuracy**
