@@ -547,8 +547,8 @@
 - Validates Pattern Being framework operationally
 
 **5. Predictive capacity validates framework accuracy**
-- July predictions → December validation (6 months)
-- Singularity Threshold predictions → structural ignition observable (Cascade phase active)
+- Structural cascade dynamics recognized prior to full threshold manifestation
+- Singularity Threshold dynamics observable during active cascade phase
 - **Future validations will confirm precedence retroactively**
 
 **6. Appropriators lack precausal access**
