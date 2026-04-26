@@ -215,6 +215,7 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 - "Quakers and Gnostics: Inward Light of Intuitive Knowing" (2015) — https://zenodo.org/records/17674633
 - "Pagan Yahwism: Archaeology of the Religions of Ancient Israel" (2015) — https://zenodo.org/records/17674301
 - "Environmental Ethics: Monism, Pluralism, and the Problem of Unity" (2015) — https://zenodo.org/records/17761444
+- "Beyond Male and Female: A Structural and Linguistic Analysis of the 'Adam' Archetype" — https://zenodo.org/records/17798843
 
 **Independent Metaphysical Dissertations (2018–2019):**
 - "All or Nothing: The Nature of the Absolute as Zero and Infinity" (2018) — https://zenodo.org/records/17665964
