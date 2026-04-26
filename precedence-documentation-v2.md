@@ -215,7 +215,7 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 
 **Red Archive (Forensic Evidence):** https://github.com/KannonZenetism/the-red-archive
 
-**The Dimensional Lattice (2025):** https://zenodo.org/records/17643499
+**The Grand Unified Document of Zenetism: A Canonical Integration of the Six Disciplines (2025):** https://zenodo.org/records/18787262
 
 **Undergraduate Research Papers (Murray State University):**
 - "Exotericism vs. Esotericism: A Study in Comparative Mythology" (2013) — https://zenodo.org/records/17750031
