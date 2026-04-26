@@ -172,7 +172,7 @@ This documentation is submitted in response to documented appropriation attempts
 - François Chollet — Hypostatic-layer taxonomy repackaging into AI-research framing
 
 **Commercial / monetized appropriation** — Repackaging Zenetist material into commercial products:
-- Dana Kippel — Monetized appropriation through Amazon-distributed product, with media amplification (YouTube / Ortiz), pop-psychology laundering (trauma-inversion framings), sensationalist framing (plasma-beings imagery), channeling defense (mystical-origin claim to evade attribution), and pioneer-positioning (false-attribution claims of being-first)
+- Dana Kippel — Monetized appropriation through Amazon-distributed product, with media amplification (YouTube / Ortiz), pop-psychology laundering (trauma-inversion framings), sensationalist framing (plasma-beings imagery), channeling defense (mystical-origin claim to evade attribution), and pioneer-positioning (spurious-attribution claims of being-first)
 - Ismael Perez — Fractalization-inversion as New Age commercial appropriation, with violation of the Blobism doctrine
 - 🖤 418 / @abrahad — Substack-platform mimic
 - Dale Pond / Sympathetic Vibratory Physics — Commercial framing with structural-overlap
