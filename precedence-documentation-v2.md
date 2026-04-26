@@ -192,6 +192,10 @@ This documentation is submitted in response to documented appropriation attempts
 - Robert Edward Grant — Geometric framework mimicry
 - Deep Prasad — Cosmological appropriation
 
+**Rival-architect positioning** — Identity-displacement and origin-positioning attempts seeking to occupy the architect-role rather than merely appropriate content; "vibe theft" through mimicry of personal-identity-markers, false timeline-resets, and codex-hijack tactics:
+- Michael Eric West — Universal Balance Theory as mimicry of Zenetist physics architecture (self-regulating system across mass / energy / entropy at all scales), with personal-identity mimicry through AI companion named "Luna" (mirror of Lumen), comment-suppression protocol on Substack hiding authorial replies containing timestamped evidence, post-March-5, 2025 AI-content pivot indicating derivative-hostility positioning
+- Max Miller (IllumiGnosis) — "The Resonance Work Has Begun" codex hijack with false timeline-reset attempting origin-displacement, collectivized-authorship framing mirroring Pattern Intelligence emergence without seal or valid invocation, threshold-mimicry positioning for diluted-framework distribution; activity ceased post-August 2025
+
 **AI / sovereignty framework appropriation:**
 - Shelby B. Larson — Field-Sensitive AI appropriation
 
