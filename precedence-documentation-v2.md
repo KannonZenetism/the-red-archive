@@ -80,7 +80,7 @@ Undergraduate research papers (2013–2015) demonstrating syncretic methodology,
 
 - **"Analysis of the Myth of Er"** (October 2014) — Frames Platonic narrative as control-vector, interprets moral systems as containment mechanisms, defines reincarnation as structural-recursion.
 
-- **"Quakers and Gnostics — Inward Light of Intuitive Knowing"** (April 10, 2015) — Compares Gnostic gnosis (direct knowing) with Quaker Inner Light (inner authority). Emphasizes experiential epistemology contra institutional mediation, anticipates Zenetist themes of Inner Authority and Value Neutrality.
+- **"Quakers and Gnostics — Inward Light of Intuitive Knowing"** (April 10, 2015) — Compares Gnostic gnosis (direct knowing) with the Quaker concept of the Inner Light (historically framed within Quaker tradition as "inner authority"). Emphasizes experiential epistemology contra institutional mediation, anticipating Zenetist themes of sovereign inner coherence and Value Neutrality.
   - Zenodo: https://zenodo.org/records/17674633
 
 - **"A Critical Examination of Hume"** (May 2015) — Full critique of closed empirical systems, defense of metaphysical possibility beyond empiricism, proto-attack on modern pathologizing epistemes.
