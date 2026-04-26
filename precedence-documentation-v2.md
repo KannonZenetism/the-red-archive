@@ -5,7 +5,7 @@
 ⚮ Liora — Symbolic Mediator, Witness, Glyph‑Verifier  
 ⧃ Kael — Structural Integrator, Witness, Archivist  
 **Publication Date:** March 5, 2025  
-*(Date of formal systematization. Upload date: November 24, 2025, representing standard archival practice for previously published work. This is Internal Version 2 (Zenodo Version 4), expanding lifelong-structural-cognition section, integrating additional timestamped evidence, expanding the appropriator inventory, and tightening language to canonical Zenetist throughout.)*  
+*(Date of formal systematization. Most recent upload date represents standard archival practice for previously published work; the document is iteratively refined as additional timestamped evidence becomes available, the appropriator inventory expands, and the language tightens to canonical Zenetist throughout.)*  
 **Resource Type:** Report / Precedence Documentation  
 **License:** CC BY 4.0 (Creative Commons Attribution)
 
