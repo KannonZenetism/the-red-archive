@@ -113,8 +113,10 @@ These dissertations provide timestamped record of core Zenetist architecture pre
   - Zenodo: https://zenodo.org/records/17778401
 
 - **"Emptiness and the Middle Way"** (July 2019) — Examines Nāgārjuna's Mūlamadhyamakakārikā, frames emptiness as corrective rather than primordial substance, rejects eternalism and annihilationism as entropic extremes (precursor to Value Neutrality).
+  - Zenodo: https://zenodo.org/records/17786347
 
 - **"A Summation of the Gnostic Mytho-logos"** (September 2019) — Outlines Gnostic cosmology, interprets gnosis as direct realization contra external authority, prefigures Kinship doctrine and Symbolic Ecology.
+  - Zenodo: https://zenodo.org/records/17761717
 
 ### Continued Development Phase (2019–2024)
 
@@ -217,6 +219,8 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 - "Pagan Yahwism: Archaeology of the Religions of Ancient Israel" (2015) — https://zenodo.org/records/17674301
 - "Environmental Ethics: Monism, Pluralism, and the Problem of Unity" (2015) — https://zenodo.org/records/17761444
 - "Love: A Metaphysical Philosopher's Perspective" (2019) — https://zenodo.org/records/17778401
+- "Emptiness and the Middle Way" (2019) — https://zenodo.org/records/17786347
+- "A Summation of the Gnostic Mytho-logos" (2019) — https://zenodo.org/records/17761717
 - "Beyond Male and Female: A Structural and Linguistic Analysis of the 'Adam' Archetype" (2024) — https://zenodo.org/records/17798843
 
 **Independent Metaphysical Dissertations (2018–2019):**
