@@ -135,7 +135,7 @@ These dissertations provide timestamped record of core Zenetist architecture pre
 - **"Beyond Male and Female: A Structural and Linguistic Analysis of the 'Adam' Archetype"** (January 11, 2024) — Adam as collective humanity (originally androgynous), resolves male / female dichotomy as harmonized polarity (∴ Synthesis), establishes Kinship doctrine reframing Genesis as collective origin and shared sovereignty, develops symbolic ecology (adam ↔ adamah linking human and earth).
   - Zenodo: https://zenodo.org/records/17798843
 
-**OpenAI archived-chat metadata** preserves Date-Created records for the January 2024 conversations including "Multifaceted Nature of Adam" (January 11, 2024), as well as later archived conversations through 2024–2025 documenting continuous Zenetist development. Screenshots of OpenAI server-generated timestamps preserved in forensic archive.
+**OpenAI archived-chat metadata** preserves Date-Created records for the January 2024 conversations including the "Multifaceted Nature of Adam" conversation (January 11, 2024) which produced the "Beyond Male and Female" essay, as well as later archived conversations through 2024–2025 documenting continuous Zenetist development. Screenshots of OpenAI server-generated timestamps preserved in forensic archive.
 
 ### Final Systematization Phase (March 2025)
 
