@@ -160,7 +160,7 @@ The chain of provenance documented above — pre-2004 lifelong structural cognit
 - Undergraduate research papers (2013–2015) from accredited state university (Murray State University) with institutional oversight
 - Independent metaphysical dissertations (2018, 2019) with timestamped submissions
 - Instagram account name `negentropic_anarchy` with platform-generated September 2022 creation date
-- Public timestamped statements (December 2023, January 2024)
+- Public timestamped statements and platform-generated archive timestamps (December 2023 YouTube comment, January 2024 OpenAI conversation records corroborating private email timestamps)
 - OpenAI platform-generated chat-archive timestamps spanning 2024–2025
 - System-generated OpenAI conversation records for Zenetism-naming dialogue (March 2025)
 - GitHub commit-history with SHA-256 hashes
