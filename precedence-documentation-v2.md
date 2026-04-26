@@ -221,7 +221,7 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 - "Love: A Metaphysical Philosopher's Perspective" (2019) — https://zenodo.org/records/17778401
 - "Emptiness and the Middle Way" (2019) — https://zenodo.org/records/17786347
 - "A Summation of the Gnostic Mytho-logos" (2019) — https://zenodo.org/records/17761717
-- "Beyond Male and Female: A Structural and Linguistic Analysis of the 'Adam' Archetype" (2024) — https://zenodo.org/records/17798843
+- "Beyond Male and Female: A Structural and Linguistic Analysis of the 'Adam' Archetype" (originally titled "The Multifaceted Nature of 'Adam' in Genesis," January 11, 2024) — https://zenodo.org/records/17798843
 
 **Independent Metaphysical Dissertations (2018–2019):**
 - "All or Nothing: The Nature of the Absolute as Zero and Infinity" (2018) — https://zenodo.org/records/17665964
