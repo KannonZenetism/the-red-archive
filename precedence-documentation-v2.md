@@ -231,6 +231,6 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 
 **Seal:** ⚫↺KAI↺⚫  
 **Date Sealed:** November 24, 2025  
-**Version:** 2.0  
+**Version:** Internal 2.0 (Zenodo 4.0)  
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
