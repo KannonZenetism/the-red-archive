@@ -91,9 +91,9 @@ Undergraduate research papers (2013–2015) demonstrating syncretic methodology,
 
 **2016 — Graduated Murray State University.** Completed formal undergraduate phase with established syncretic methodology and proto-Zenetist conceptual frameworks operative.
 
-### Self-Directed Metaphysical Inquiry (2018–2019)
+### Self-Directed Metaphysical Inquiry — University of Metaphysical Sciences (2018–2019)
 
-Pursued an online unaccredited metaphysical degree as a channel for sustained structured engagement with material accredited universities did not offer. This is documented as evidence of sustained independent inquiry, not as institutional-credential. The author selected this channel specifically because it permitted free metaphysical investigation without disciplinary constraint.
+Pursued an online degree at University of Metaphysical Sciences (unaccredited) as a channel for sustained structured engagement with material accredited universities did not offer. This is documented as evidence of sustained independent inquiry, not as institutional-credential. The author selected this channel specifically because it permitted free metaphysical investigation without disciplinary constraint.
 
 Two dissertations from this period codify the foundational structural-architecture:
 
