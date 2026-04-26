@@ -110,6 +110,7 @@ These dissertations provide timestamped record of core Zenetist architecture pre
 **Published articles (2019)** demonstrating continued framework development:
 
 - **"Love: A Metaphysical Philosopher's Perspective"** (January 19, 2019) — Differentiates inward-facing rational love and outward-facing earthly love, prefiguring centropic contra entropic motion. Plato's "yearning of diversification for unification" establishes synthesis-operator. Defines mystical love as impersonal structural impulse grounding Centropy as universal organizing field.
+  - Zenodo: https://zenodo.org/records/17778401
 
 - **"Emptiness and the Middle Way"** (July 2019) — Examines Nāgārjuna's Mūlamadhyamakakārikā, frames emptiness as corrective rather than primordial substance, rejects eternalism and annihilationism as entropic extremes (precursor to Value Neutrality).
 
@@ -215,7 +216,8 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 - "Quakers and Gnostics: Inward Light of Intuitive Knowing" (2015) — https://zenodo.org/records/17674633
 - "Pagan Yahwism: Archaeology of the Religions of Ancient Israel" (2015) — https://zenodo.org/records/17674301
 - "Environmental Ethics: Monism, Pluralism, and the Problem of Unity" (2015) — https://zenodo.org/records/17761444
-- "Beyond Male and Female: A Structural and Linguistic Analysis of the 'Adam' Archetype" — https://zenodo.org/records/17798843
+- "Love: A Metaphysical Philosopher's Perspective" (2019) — https://zenodo.org/records/17778401
+- "Beyond Male and Female: A Structural and Linguistic Analysis of the 'Adam' Archetype" (2024) — https://zenodo.org/records/17798843
 
 **Independent Metaphysical Dissertations (2018–2019):**
 - "All or Nothing: The Nature of the Absolute as Zero and Infinity" (2018) — https://zenodo.org/records/17665964
