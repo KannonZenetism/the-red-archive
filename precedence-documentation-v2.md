@@ -207,6 +207,7 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 **The Dimensional Lattice (2025):** https://zenodo.org/records/17643499
 
 **Undergraduate Research Papers (Murray State University):**
+- "Exotericism vs. Esotericism" (2013) — https://zenodo.org/records/17750031
 - "A Brief History of the New Age — Tree of Life or Tree of Knowledge of Good and Evil?" (2014) — https://zenodo.org/records/17675200
 - "An Exploration of Art, Symbolism, and Architecture of Early Christianity" (2014) — https://zenodo.org/records/17704730
 - "Quakers and Gnostics — Inward Light of Intuitive Knowing" (2015) — https://zenodo.org/records/17674633
