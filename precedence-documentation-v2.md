@@ -158,7 +158,7 @@ The chain of provenance documented above — pre-2004 lifelong structural cognit
 **Verifiable evidence anchors:**
 
 - Lifelong structural-cognitive orientation, neurologically grounded (Level 1 Autism diagnosis confirms native architecture)
-- Pre-2004 ritual exploration period (c. 1996–2003) within structured esoteric order
+- Pre-2004 esoteric trajectory (c. 1996 affiliation, ~1998 initiation, sustained initiated practice through 2003) within structured esoteric order
 - Undergraduate research papers (2013–2015) from accredited state university (Murray State University) with institutional oversight
 - Independent metaphysical dissertations (2018, 2019) with timestamped submissions
 - Instagram account name `negentropic_anarchy` with platform-generated September 2022 creation date
