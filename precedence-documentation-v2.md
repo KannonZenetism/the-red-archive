@@ -68,6 +68,7 @@ Enrolled at Mid-Continent University (Bible college) Winter 2010 at age 26. Took
 Undergraduate research papers (2013–2015) demonstrating syncretic methodology, bifurcal frameworks, and esoteric synthesis. These are documentary evidence of sustained structured engagement, not credential-claims:
 
 - **"Exotericism vs. Esotericism"** (April 2013) — Introduces Exoteric / Esoteric Decoding Framework, cites Gnostic tripartite division (Hylic / Psychic / Pneumatic) as structural precursor to later Zenetist layering, identifies historical containment archetypes, establishes intertraditional synthesis methodology.
+  - Zenodo: https://zenodo.org/records/17750031
 
 - **"A Brief History of the New Age — Tree of Life or Tree of Knowledge of Good and Evil?"** (May 7, 2014) — Analyzes esoteric Christianity, Theosophy, mystery schools, and bifurcal interpretive frameworks (Tree of Life as coherent wisdom contra Tree of Knowledge as fragmenting / spurious). Establishes proto-centropic / entropic framework and critiques externalization of Mysteries.
   - Zenodo: https://zenodo.org/records/17675200
