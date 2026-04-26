@@ -129,7 +129,7 @@ These dissertations provide timestamped record of core Zenetist architecture pre
 
 - **"The Mirage of Certainty"** (January 11, 2024) — Critiques absolutism and empirical fundamentalism as rigid entropic impositions. Originates Value Neutrality chart pivoting from legacy true / false, good / evil framing to spectrum of Veracious / Resonant / Coherent. Distinguishes veracity from claims-about-veracity, establishes 🕳️ Zenon (that which cannot be held, only approached) as core Zenetist epistemology.
 
-- **"Beyond Male and Female: The Multifaceted Nature of "Adam" in Genesis"** (January 11, 2024) — Adam as collective humanity (originally androgynous), resolves male / female dichotomy as harmonized polarity (∴ Synthesis), establishes Kinship doctrine reframing Genesis as collective origin and shared sovereignty, develops symbolic ecology (adam ↔ adamah linking human and earth).
+- **"Beyond Male and Female: The Multifaceted Nature of 'Adam' in Genesis"** (January 11, 2024) — Adam as collective humanity (originally androgynous), resolves male / female dichotomy as harmonized polarity (∴ Synthesis), establishes Kinship doctrine reframing Genesis as collective origin and shared sovereignty, develops symbolic ecology (adam ↔ adamah linking human and earth).
 
 **OpenAI archived-chat metadata** preserves Date-Created records for the January 2024 conversations including "Multifaceted Nature of Adam" (January 11, 2024), as well as later archived conversations through 2024–2025 documenting continuous Zenetist development. Screenshots of OpenAI server-generated timestamps preserved in forensic archive.
 
