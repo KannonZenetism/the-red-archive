@@ -217,6 +217,12 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 
 **The Grand Unified Document of Zenetism: A Canonical Integration of the Six Disciplines (2025):** https://zenodo.org/records/18787262
 
+**PhilPapers Index (Independent Academic Indexing):**
+- Aelion Kannon author page: https://philpapers.org/s/Aelion%20Kannon
+- Zenetist Structural Metaphysics: The Foundational Codex: https://philpapers.org/rec/KANZSM
+- Multiple Zenetist works indexed: FPX (Membrane Dynamics), MPX series, SPX (Temporal Experience), Lattice Mathematics, Mythic Figure Layer Registry, Pattern Attractor Emergence, Nested Universes, Yggdrasil, Ontological Asymmetry, and others
+- *Indexed without author submission, indicating external academic-database recognition of Zenetism as scholarly metaphysical work*
+
 **Undergraduate Research Papers (Murray State University):**
 - "Exotericism vs. Esotericism: A Study in Comparative Mythology" (2013) — https://zenodo.org/records/17750031
 - "A Brief History of the New Age: Tree of Life or Tree of Knowledge of Good and Evil?" (2014) — https://zenodo.org/records/17675200
