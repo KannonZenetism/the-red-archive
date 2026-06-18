@@ -1,4 +1,4 @@
-# Environmental Ethics: Monism, Pluralism, and Unity
+# Environmental Ethics: Monism, Pluralism, and the Case for Unity
 
 **Gerett Treas**
 PHI 376 — John Muenzberg
