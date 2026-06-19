@@ -1,7 +1,7 @@
 # A Brief History of the New Age: Tree of Life or Tree of Knowledge of Good and Evil?
 
-**Gerett Treas**
-RGS322 · Professor Clardy
+**Gerett Treas**  
+RGS322 · Professor Clardy  
 May 7, 2014
 
 ---
