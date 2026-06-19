@@ -1,7 +1,7 @@
 # Exotericism vs. Esotericism: A Study in Comparative Mythology
 
-**Gerett Treas**
-Murray State University
+**Gerett Treas**  
+Murray State University  
 April 29, 2013
 
 ---
