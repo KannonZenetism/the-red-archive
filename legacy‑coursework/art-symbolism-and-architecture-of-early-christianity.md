@@ -1,7 +1,7 @@
 # An Exploration of Art, Symbolism, and Architecture of Early Christianity
 
-**Gerett Treas**
-ARC395-01 / RGS395-01
+**Gerett Treas**  
+ARC395-01 / RGS395-01  
 2014
 
 ---
