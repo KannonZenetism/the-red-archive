@@ -1,7 +1,7 @@
 # Pagan Yahwism: Archaeology of the Religions of Ancient Israel
 
-**Gerett Treas**
-RGS410-01
+**Gerett Treas**  
+RGS410-01  
 July 1, 2015
 
 ---
