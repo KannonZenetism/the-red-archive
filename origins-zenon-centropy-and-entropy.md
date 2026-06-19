@@ -11,6 +11,8 @@
 
 ---
 
+**Clarifying Note:** This note does not claim that all proto-centropic or proto-entropic ideas first appeared in 2022. Rather, it isolates the developmental strand through which earlier ethical, sociological, and epistemic intuitions began to clarify into motion dynamics and later into the formal centropy / entropy distinction. It also clarifies the strand through which Zenon emerged as the structural name for the horizon of uncertainty, unknowability, and the limit of direct epistemic access.
+
 ## 1. The Collapse of Moral Absolutism as the First Breakpoint
 
 My earliest movement toward Zenon began not in metaphysics, but in ethics.
@@ -171,6 +173,6 @@ This is the missing piece of my intellectual timeline: the moment where metaphys
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
-**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion  
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
