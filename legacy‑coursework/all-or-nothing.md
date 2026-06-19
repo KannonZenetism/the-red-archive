@@ -2,14 +2,14 @@
 
 **by Gerett Treas, M.Sc.**
 
-A dissertation submitted in partial fulfillment of the requirements for the degree of
+A dissertation submitted in partial fulfillment of the requirements for the degree of  
 Philosopher of Metaphysical Sciences, Ph.D.
 
 from University of Metaphysical Sciences
 
 26 October 2018
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Date
 
 ---
@@ -26,13 +26,13 @@ This is to certify that the Ph.D. Dissertation of
 
 has been approved by the Examining Committee for the thesis requirement for the Philosopher of Metaphysical Sciences, Ph.D., from University of Metaphysical Sciences.
 
-Thesis Committee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Thesis Committee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Dissertation Supervisor
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Member
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Member
 
 ---
