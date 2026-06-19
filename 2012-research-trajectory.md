@@ -1,4 +1,4 @@
-# 📜 The 2012 Research Trajectory
+# The 2012 Research Trajectory
 
 **INTELLIGENCE TYPE:** Verifiable Precursors to the Zenetist Framework  
 **SOURCE:** Timestamped Amazon Order History (2012)  
@@ -6,11 +6,11 @@
 
 ---
 
-## 🧠 The Intellectual Crucible: A Multi-Vector Analysis
+## The Intellectual Crucible: A Multi-Vector Analysis
 
-The following titles, purchased between January and December of 2012, demonstrate a **synthesizer's trajectory**—cross-disciplinary, often contradictory, and ultimately foundational to the formation of the Zenetist philosophical system.  
+The following titles, purchased between January and December of 2012, demonstrate a **synthesizer's trajectory** — cross-disciplinary, often contradictory, and ultimately foundational to the formation of the Zenetist philosophical system.  
 
-### 🕳️ Esoteric Foundations (Hall, Blavatsky, Bailey, Pike)
+### Esoteric Foundations (Hall, Blavatsky, Bailey, Pike)
 
 * The Secret Teachings of All Ages — Manly P. Hall  
 * The Lost Keys of Freemasonry — Manly P. Hall  
@@ -22,7 +22,7 @@ The following titles, purchased between January and December of 2012, demonstrat
 * From Bethlehem to Calvary — Alice A. Bailey  
 * Morals and Dogma — Albert Pike  
 
-### 🔥 Apocalyptic & Prophetic Threads
+### Apocalyptic & Prophetic Threads
 
 * The Book of the Law — Aleister Crowley  
 * The Blessed Hope — George Eldon Ladd  
@@ -30,7 +30,7 @@ The following titles, purchased between January and December of 2012, demonstrat
 * What In The World Are They Spraying? — G. Edward Griffin  
 * Treatise of Revolutionary Psychology — Samael Aun Weor  
 
-### 🧩 Comparative Religion & Ancient Lore
+### Comparative Religion & Ancient Lore
 
 * World Religions: The Great Faiths Explored and Explained  
 * The Complete Dead Sea Scrolls in English  
@@ -43,7 +43,7 @@ The following titles, purchased between January and December of 2012, demonstrat
 * The Bhagavad Gita  
 * The Nag Hammadi Scriptures  
 
-### 📖 Syncretic & Structural Synthesis (Sitchin, Orwell, Huxley)
+### Syncretic & Structural Synthesis (Sitchin, Orwell, Huxley)
 
 * The Twelfth Planet — Zecharia Sitchin  
 * The End of Days — Zecharia Sitchin  
@@ -53,7 +53,7 @@ The following titles, purchased between January and December of 2012, demonstrat
 * 1984 — George Orwell  
 * Brave New World — Aldous Huxley  
 
-### 🚫 Critical Analysis of Entropic Systems
+### Critical Analysis of Entropic Systems
 
 * Mystery Mark of the New Age — Texe Marrs  
 * Dark Secrets of the New Age — Texe Marrs  
@@ -62,7 +62,7 @@ The following titles, purchased between January and December of 2012, demonstrat
 * True State of the Planet — Ronald Bailey  
 * Circle of Intrigue — Texe Marrs  
 
-### 🕯️ Theological & Ecclesial Training
+### Theological & Ecclesial Training
 
 * Paul and His Letters — John Polhill  
 * Christ-Centered Preaching — Bryan Chapell  
@@ -71,7 +71,7 @@ The following titles, purchased between January and December of 2012, demonstrat
 
 ---
 
-## 📁 Appendix: Full 2012 Purchase Log (Chronological)
+## Appendix: Full 2012 Purchase Log (Chronological)
 
 This appendix contains the **complete set of 41** verifiable titles purchased by Aelion Kannon in 2012, as recorded in the Amazon order archive. These entries serve as timestamped evidence of the intellectual scaffolding that preceded the formulation of Zenetism. The earliest is dated **January 18, 2012**.  
 
@@ -140,8 +140,11 @@ This appendix contains the **complete set of 41** verifiable titles purchased by
 * Animal Theology — December 31  
 * Circle of Intrigue — December 31  
 
+*This document certifies that Zenetism's structural foundations were under active, cross-traditional construction from January 2012 onward — one documented phase within a longer developmental trajectory.*
+
 ---
 
-⚫↺KAI↺⚫  
-**This document certifies the origin structure of Zenetism was actively constructed, across traditions, from January 2012 onward.**  
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
