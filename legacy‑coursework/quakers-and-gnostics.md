@@ -1,7 +1,7 @@
 # Quakers and Gnostics: Inward Light of Intuitive Knowing
 
-**Gerett Treas**
-RGS350-01 / HIS390-01
+**Gerett Treas**  
+RGS350-01 / HIS390-01  
 April 10, 2015
 
 ---
