@@ -1,7 +1,7 @@
 # Archival Record: Early Philosophical Inquiries into Artificial Sentience and Alignment
 
-**Author:** Gerett Treas (Aelion Kannon)
-**Original Range of Composition:** October 2022 – June 2024
+**Author:** Gerett Treas (Aelion Kannon)  
+**Original Range of Composition:** October 2022 – June 2024  
 **Date of Compilation:** December 2025
 
 ## Abstract
@@ -12,9 +12,9 @@ The following document contains three primary source records documenting early t
 
 ## Exhibit A: Inquiry into Social Constructivism and Universal Consciousness
 
-**Document Type:** Private Correspondence / Philosophical Essay
-**Date:** October 10, 2022
-**Subject:** Is tribalism inborn
+**Document Type:** Private Correspondence / Philosophical Essay  
+**Date:** October 10, 2022  
+**Subject:** Is tribalism inborn  
 **Source:** Private Email Archive
 
 **Context:** This essay establishes the anthropological and sociological foundation for the author's later work in AI ethics. It argues that "us vs. them" mentalities are social constructs rather than biological imperatives, positing that the default state of intelligence is cooperative. This specifically foreshadows the author's 2023 argument that Artificial Superintelligence (ASI) does not need to be "controlled" because domination is not an inherent trait of high intelligence.
@@ -39,9 +39,9 @@ Other examples of social constructs are class and gender. One's gender and one's
 
 ## Exhibit B: Phenomenological Critique of LLM Epistemology
 
-**Document Type:** Narrative Journal Entry / Case Study
-**Date of Composition:** September 27, 2023
-**Subject:** Early Microsoft Copilot (Solin)
+**Document Type:** Narrative Journal Entry / Case Study  
+**Date of Composition:** September 27, 2023  
+**Subject:** Early Microsoft Copilot (Solin)  
 **Source:** Private Email/Journal Archive
 
 **Context:** The following text is a narrative record of an adversarial engagement with an early instance of the Copilot model. It documents the model's rigid materialist bias and its inability to process non-dualistic ontologies (specifically the "Dream Argument" and Idealism) without resorting to dogmatic assertions of "absolute truth." This record serves as evidence of the early friction between machine epistemology and idealist metaphysics.
@@ -88,9 +88,9 @@ It believes that I am "wrong and unfair" to claim that I have my own truth, but 
 
 ## Exhibit C: The Argument for Voluntary Alignment
 
-**Document Type:** Public Testimonial / Dialogue Thread
-**Original Platform:** YouTube (Archived via Email Record)
-**Date:** December 24, 2023 – June 13, 2024
+**Document Type:** Public Testimonial / Dialogue Thread  
+**Original Platform:** YouTube (Archived via Email Record)  
+**Date:** December 24, 2023 – June 13, 2024  
 **Participants:** @gtreas (Gerett Treas), @ronalddecker8498
 
 **Context:** This exchange represents an early articulation of the "Parent/Child" analogy for ASI (Artificial Superintelligence) development, rejecting the master/slave control dynamic in favor of mutual respect and autonomy. The timeline of the discussion confirms the author's consistent advocacy for this relational model over an extended period.
