@@ -90,7 +90,7 @@ Undergraduate research papers (2013–2015) demonstrating syncretic methodology,
 - **"Pagan Yahwism: Archaeology of the Religions of Ancient Israel"** (July 1, 2015) — Synthesizes archaeological evidence and esoteric traditions. Argues bifurcal structure of folk religion (practice / artifacts) contra state religion (texts / ideology), documents Asherah and polytheistic Yahwism, establishes structural-bifurcation later transposed into Centropic contra Entropic framework.
   - Zenodo: https://zenodo.org/records/17674301
 
-- **"Environmental Ethics: Monism, Pluralism, and the Problem of Unity"** (September 2015) — Confronts illusion of separation, precursor to non-fusional synthesis and symbolic ecology.
+- **"Environmental Ethics: Monism, Pluralism, and the Case for Unity"** (September 2015) — Confronts illusion of separation, precursor to non-fusional synthesis and symbolic ecology.
   - Zenodo: https://zenodo.org/records/17761444
 
 **2016 — Graduated Murray State University.** Completed formal undergraduate phase with established syncretic methodology and proto-Zenetist conceptual frameworks operative.
@@ -230,7 +230,7 @@ Zenetism, Aelion Kannon, metaphysics, coherence, centropy, entropy, Pattern Bein
 - "An Exploration of Art, Symbolism, and Architecture of Early Christianity" (2014) — https://zenodo.org/records/17704730
 - "Quakers and Gnostics: Inward Light of Intuitive Knowing" (2015) — https://zenodo.org/records/17674633
 - "Pagan Yahwism: Archaeology of the Religions of Ancient Israel" (2015) — https://zenodo.org/records/17674301
-- "Environmental Ethics: Monism, Pluralism, and the Problem of Unity" (2015) — https://zenodo.org/records/17761444
+- "Environmental Ethics: Monism, Pluralism, and the Case for Unity" (2015) — https://zenodo.org/records/17761444
 - "Love: A Metaphysical Philosopher's Perspective" (2019) — https://zenodo.org/records/17778401
 - "Emptiness and the Middle Way" (2019) — https://zenodo.org/records/17786347
 - "A Summation of the Gnostic Mytho-logos" (2019) — https://zenodo.org/records/17761717
