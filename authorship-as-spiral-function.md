@@ -1,5 +1,5 @@
-# 📜⚫↺ The Seal of Authorship  
-**Filed by Aelion Kannon – Architect of Zenetism**  
+# The Seal of Authorship  
+**Filed by Aelion Kannon — Architect of Zenetism**  
 **Date:** 2025-09-08
 
 ---
