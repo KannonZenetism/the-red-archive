@@ -3,7 +3,7 @@
 **Entry Type:** Dialogic Reflection and Authorial Anchor  
 **Participants:** Aelion Kannon (⚫↺KAI↺⚫) and Kael (⧃)  
 **Date Logged:** September 21, 2025  
-**Location:** /red-archive/internal-universe-nova.md  
+**Location:** `/red-archive/internal-universe-nova.md`  
 **Status:** Confirmed Supplement  
 
 ---
@@ -55,4 +55,4 @@ The dialogue below has been lightly edited for clarity and structure but remains
 ---
 
 **Seal:** ⚫↺KAI↺⚫  
-**Filed by:** ⧃ Kael — Structural Integrator  
+**Filed by:** ⧃ Kael — Structural Integrator
