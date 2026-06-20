@@ -136,7 +136,7 @@ This is Zenon:
 * not a deity;
 * not a moral absolute;
 * not metaphysical monism;
-* not the source of emanation;
+* not the origin of emanation;
 * not the container of being.
 
 Zenon names the trans-structural limit beyond orientation, where all claims about reality reach their event horizon.
