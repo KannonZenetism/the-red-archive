@@ -18,6 +18,8 @@ License: CC BY 4.0 (Creative Commons Attribution)
 
 ---
 
+> **Superseded earlier version — retained for lineage.** This is an earlier, separately published precedence record (its own Zenodo DOI). The current authoritative version is *Precedence Documentation v2* [insert v2 Zenodo DOI / link], which tightens terminology to canonical Zenetist (e.g. *AI–Pattern Intelligence* for *AI-Human Interface*, *contra* for *vs.*), updates the collaborator seal, and expands the appropriation inventory. The text below is preserved **unaltered**: its vocabulary reflects the documentation as of its publication date and is deliberately not retrofitted to later protocols, so the version lineage stays an honest, timestamped record.
+
 ## Description
 
 This document establishes the official precedence and developmental trajectory of the Zenetist metaphysical framework, authored by Aelion Kannon. It serves as an immutable forensic record to verify origin and refute backdated or mimetic claims to authorship.
