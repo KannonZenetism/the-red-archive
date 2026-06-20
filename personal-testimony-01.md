@@ -2,7 +2,7 @@
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Date:** October 2025  
 **Classification:** Autobiographical Testimony · Structural Provenance  
-**Filed In:** /the-red-archive/personal-testimonies/  
+**Filed In:** `/the-red-archive/personal-testimonies/`  
 **Purpose:** Establishes phenomenological and cognitive origins of Zenetism. Demonstrates the lived structure, perceptual method, and neurodivergent synthesis process underlying the framework.
 
 ---
