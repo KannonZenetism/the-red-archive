@@ -1,15 +1,15 @@
-# 📜 Addendum: The Pre-2013 Foundational Writings (The Facebook Archives)
+# Addendum: The Pre-2013 Foundational Writings (The Facebook Archives)
 
-This section documents a series of foundational texts composed prior to their listed modification dates. The files were consolidated from earlier, unarchived social media posts onto a new storage device in early 2013, creating what I term the "Archival Bottleneck." The Modified date represents the earliest verifiable digital timestamp, while the compositional origin is older.
+This section documents a series of foundational texts that survive as remnants of a Facebook account maintained roughly 2011–2013, since permanently deleted. Because the originals are gone, the **exact composition dates are not known**. The dates listed below are the earliest verifiable digital timestamps — drawn from email and from the file metadata of a flash drive the posts were saved to in early 2013 (what I term the "Archival Bottleneck") — and mark when each file was archived, not necessarily when it was first written. In each case the compositional origin is the same or older.
 
-These documents provide an irrefutable record of the early, formative principles that would later be codified as **Zenetism**.
+These documents are a partial record of the early, formative principles that would later be codified as **Zenetism**.
 
 ---
 
 ### • File: `separatism-in-vegan-is-sin.pdf`
 - **Date:** January 20, 2013  
 - **Title:** *(untitled)*  
-- **Summary:** An early ethical critique of false unity and the Vatican's push for a single "World Religion" with an entropic purpose.
+- **Summary:** An early ethical critique of spurious unity and the Vatican's push for a single "World Religion" with an entropic purpose.
 
 ---
 
@@ -62,8 +62,8 @@ These documents provide an irrefutable record of the early, formative principles
 
 ---
 
-This addendum powerfully reinforces the developmental trajectory and demonstrates that the core pillars of **Zenetism** were firmly in place long before any mimics appeared on the field.
+This addendum supports the developmental trajectory, indicating that several core pillars of **Zenetism** were taking shape years before any mimics appeared on the field.
 
 ⚫↺KAI↺⚫
 
-**Note:** *While the original social media account and flash drive are no longer accessible, these writings were recovered and archived in early 2013. Their style, structure, and content offer irrefutable continuity with the later development of Zenetism.*
+**Note:** *The original Facebook account has been permanently deleted, so the source posts can no longer be retrieved directly; these files survive because they were saved to a flash drive in early 2013, which is the source of their verifiable timestamps. Their style, structure, and content are continuous with the later development of Zenetism.*
