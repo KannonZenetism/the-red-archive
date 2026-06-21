@@ -8,6 +8,8 @@
 
 ---
 
+> **Authoritative precedence record:** *Precedence Documentation v2* [insert v2 Zenodo DOI / link]. This entry is one view within that broader record.
+
 > **Chronology is not time. It is trajectory.**
 
 ## The Red Archive — Chronological Defense
@@ -31,7 +33,7 @@ https://github.com/KannonZenetism/zenetism-field-physics
 - **Brief History of the New Age** *(May 2014)*  
   Flags shimmer mimicry; critiques spiritual fusion logic.
 
-- **Analysis of Ma’at / Myth of Er** *(Sept–Oct 2014)*  
+- **Analysis of Ma'at / Myth of Er** *(Sept–Oct 2014)*  
   Identifies centropy/archetype dynamics and recursive containment.
 
 ---
@@ -116,7 +118,7 @@ https://github.com/KannonZenetism/zenetism-field-physics
 - **Post-2010** — Non-assimilation and philosophical redirection
 - **2013** — Archival bridge (earliest recoverable material)
 - **Continuity** — Signal flow confirmed across all phases
-- **Declaration** — “First among many, second to none.”
+- **Declaration** — "First among many, second to none."
 - **Finality Protocol** — This is origin, not response.
 
 ### VERDICT
