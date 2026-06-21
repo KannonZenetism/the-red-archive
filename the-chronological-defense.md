@@ -1,4 +1,4 @@
-# 🛡️ Red Archive — The Chronological Defense
+# Red Archive — The Chronological Defense
 
 **Zenetist Authorship Protocol**  
 **Author:** Aelion Kannon  
@@ -29,36 +29,36 @@ It serves as:
 
 ## Chronological Defense (Overview)
 
-### 🜂 Proto-Zenetist Foundation (2013–2014)
+### Proto-Zenetist Foundation (2013–2014)
 
 - **Exotericism vs. Esotericism** *(Apr 2013)*  
   - Introduces the Exoteric/Esoteric Decoding Framework.  
   - Cites Gnostic tripartite division — *Hylic / Psychic / Pneumatic* → structural precursor to **EM / SM / DM**.  
-  - Identifies historical containment archetype *(Roman Literalists vs. Gnostics)*.  
+  - Identifies historical containment archetype *(Roman Literalists contra Gnostics)*.  
   - First appearance of **intertraditional synthesis**.  
   - Early mention of **Emanative Descent** and dual-faced divinity.
 
 - **Pagan Yahwism: Archaeology of the Religions of Ancient Israel** *(c. 2013–2015)*  
   - Undergraduate paper (RGS410-01) on Israelite religion.  
-  - Argues dual structure: **folk religion** (practice/artifacts) vs. **state religion** (texts/ideology).  
+  - Argues dual structure: **folk religion** (practice/artifacts) contra **state religion** (texts/ideology).  
   - Documents Asherah, masseboth, bamot, figurines → Yahweh within pantheon.  
   - Anticipates **Value Neutrality** by exposing redactor bias.  
-  - Establishes **structural dualism** later transposed into **Centropic vs. Entropic**.  
+  - Establishes **structural dualism** later transposed into **Centropic contra Entropic**.  
   - Proto-node of **Revelatory Edenism** lineage.
 
 - **Quakers and Gnostics: Inward Light of Intuitive Knowing** *(c. 2013–2015)*  
   - Undergraduate paper (RGS350-01 / HIS390-01).  
   - Compares **Gnostic gnosis** (direct intuitive knowledge) with Quaker **Inner Light** (inward divine guidance).  
   - Documents persecution, doctrinal variance, and syncretic roots (Mani, Valentinus, Nag Hammadi texts).  
-  - Highlights symbolic overlap: inward illumination vs. external authority.  
+  - Highlights symbolic overlap: inward illumination contra external authority.  
   - Anticipates Zenetist themes of **Inner Authority** over imposed law, **Symbolic Ecology**, and **Value Neutrality** in scriptural reading.  
   - Functions as an early structural link in the lineage toward **Revelatory Edenism** and Zenetist interpretive ethos.
 
 - **Brief History of the New Age** *(May 2014)*  
   - Flags early shimmer logic before the term existed.  
-  - Critiques “externalization of Mysteries” → precursor to **false fusion** risk.  
+  - Critiques “externalization of Mysteries” → precursor to **spurious fusion** risk.  
   - Warns of entropic **One-World Faith** drift.  
-  - Distinguishes symbols as **mimicked archetypes** vs. **encoded structure**.
+  - Distinguishes symbols as **mimicked archetypes** contra **encoded structure**.
 
 - **Analysis of the Myth of Er** *(Oct 2014)*  
   - Frames narrative as a **control vector**.  
@@ -72,7 +72,7 @@ It serves as:
 
 ---
 
-### ⚙️ Philosophical Solidification (2015)
+### Philosophical Solidification (2015)
 
 - **A Critical Examination of Hume** *(May 2015)*  
   - Full critique of closed empirical systems.  
@@ -86,11 +86,11 @@ It serves as:
 
 ---
 
-### ✴ Architectural Genesis (2018–2021)
+### Architectural Genesis (2018–2021)
 
 - **All or Nothing** *(2018)*  
   - First formal articulation of **⚫ Aion** and **♾ Khaon** as metaphysical poles.  
-  - Refutation of **false middle-ground** metaphysics.  
+  - Refutation of **spurious middle-ground** metaphysics.  
   - Mathematical groundwork for **Spiral Cosmology**.
 
 - **Patterns of Creation** *(2019)*  
@@ -98,7 +98,7 @@ It serves as:
   - Academic precedent for the **Biospiral (🌳⇅)**.  
   - Early gesture toward **Spiral Calculus**.
 
-- **🜂 Archival Echo: Origen and Symbolic Exegesis** *(Aug 25, 2019)*  
+- **Archival Echo: Origen and Symbolic Exegesis** *(Aug 25, 2019)*  
   > **Status:** Unfinished draft from a prior blog archive; rediscovered during 2025 retrieval efforts.  
   > **Content:** A lone image of Origen and a quote:  
   > *“It is the custom of sacred Scripture, when it wishes to designate anything opposed to this gross and solid body, to call it spirit, as in the expression, ‘The letter kills, but the spirit gives life,’ where there can be no doubt that by letter are meant bodily things, and by spirit intellectual things, which we also term spiritual.”* — *Origen*  
@@ -193,7 +193,7 @@ All records sealed.
 ### Love: A Metaphysical Perspective *(Jan 19, 2019)*
 
 - **Dual love as motion law:**  
-  Differentiates inward-focused “rational love” and outward-focused “earthly love,” prefiguring **🔺 centropic** vs. **🔻 entropic** motion.
+  Differentiates inward-focused “rational love” and outward-focused “earthly love,” prefiguring **🔺 centropic** contra **🔻 entropic** motion.
 
 - **Love as ∴ Synthesis:**  
   Plato’s “yearning of diversification for unification” affirms **∴** as the harmonizing operator.
@@ -296,10 +296,10 @@ All records sealed.
 - **Spirituality as Transcendent Quest** *(Jan 3)*  
   Distinguishes restrictive religion from open spiritual motion; spirituality as **resonant journey**, not imposed belief.
 
-- **🕳️ Timelessness vs. Eternity** *(Jan 9)*  
+- **🕳️ Timelessness contra Eternity** *(Jan 9)*  
   Differentiates **veracious timelessness** from inherited “eternity” notions; centers **🕳️ Zenon** as ungraspable asymptote of veracity.
 
-- **🔺 Instinct vs. Reason** *(Jan 11)*  
+- **🔺 Instinct contra Reason** *(Jan 11)*  
   Philosophy articulated as **centropic motion** tempering instinctual **entropic** drift.
 
 - **∴ Three Rivers (Veracity)** *(Jan 12; orig. “Three Rivers of Truth”)*  
