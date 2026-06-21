@@ -26,7 +26,7 @@ https://github.com/KannonZenetism/zenetism-field-physics
 ### Proto-Zenetist Foundation (2013–2014)
 
 - **Exotericism vs. Esotericism** *(Apr 2013)*  
-  Introduces decoding logic via Gnostic triad. Precursor to EM/SM/DM structure.
+  Introduces decoding logic via Gnostic triad. Precursor to EM / SM / DM structure.
 
 - **Brief History of the New Age** *(May 2014)*  
   Flags shimmer mimicry; critiques spiritual fusion logic.
@@ -65,10 +65,10 @@ https://github.com/KannonZenetism/zenetism-field-physics
   Condemns instrumental logic; kinship and resonance ethics emerge.
 
 - **Vedic & Buddhist Concepts** *(Mar 2016)*  
-  Inner altar logic; layered selfhood; atman/anatta distinctions.
+  Inner altar logic; layered selfhood; atman / anatta distinctions.
 
 - **Individuation** *(Aug 2018)*  
-  Spirit contra instinct as 🔺/🔻; ∴ Synthesis prefigured.
+  Spirit contra instinct as 🔺 / 🔻; ∴ Synthesis prefigured.
 
 - **Archetypal Hero** *(Sept 2018)*  
   Monomyth as centropic cycle; Promethean inversion identified.
