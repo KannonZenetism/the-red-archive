@@ -1,6 +1,8 @@
 # Exploring Timelessness: A Deeper Dive into the Concepts of Eternity and Divinity  
 *Written January 9, 2024*  
 
+> **Archival note:** This main-folder copy is held as the timestamped archival record. Future versions of this work, and the other early and proto-Zenetist writings, are kept in the `proto-zenetist-archive` folder.
+
 ## Introduction to Eternity
 
 The concept of eternity has long captivated human thought, raising the question: Is eternity truly timeless? While many associate it with being unending, perpetual, and everlasting, questioning whether it transcends the sequences of events within time is crucial. This distinction is significant in both philosophical and theological discussions. This exploration aims to unravel these nuances, enhancing our understanding of God's nature and perpetual existence.
@@ -9,7 +11,7 @@ The concept of eternity has long captivated human thought, raising the question:
 
 Examining scriptural references to "eternity" or "eternal," such as in Titus 1:2, which states, *"In hope of eternal life…,"* reveals varied interpretations. When consulting Strong's Concordance, we find "eternal" translated as "G166, aiōnios, αἰώνιος,"[1] encompassing meanings such as being without beginning and end, always existing, and everlasting. The first definition suggests timelessness, while the latter two imply an existence within time, a crucial distinction.
 
-Furthermore, "eternal" (Strong’s G166) in verses like 1 John 2:25 and John 17:3, compared with "everlasting" in Old Testament texts such as Proverbs 8:23, *"From everlasting I was established, from the beginning, before the earth began,"* indicates a finite existence beginning in time. This interpretation is supported by its Concordance definition [2], "H5769, ʿôlām, עוֹלָם," meaning long duration or perpetual existence.
+Furthermore, "eternal" (Strong's G166) in verses like 1 John 2:25 and John 17:3, compared with "everlasting" in Old Testament texts such as Proverbs 8:23, *"From everlasting I was established, from the beginning, before the earth began,"* indicates a finite existence beginning in time. This interpretation is supported by its Concordance definition [2], "H5769, ʿôlām, עוֹלָם," meaning long duration or perpetual existence.
 
 ## Timelessness and the Nature of God
 
@@ -37,14 +39,14 @@ In conclusion, eternity's concept can have varied meanings, even within the same
 
 ## Engaging with the Community
 
-I hope this exploration into the concepts of eternity and divinity has provided food for thought. Your perspectives and interpretations are invaluable in this ongoing dialogue. How do you perceive eternity in the context of your own beliefs and understandings? Do you see it as a linear progression, a timeless state, or something else entirely? I invite you to share your thoughts and insights in the comments below. Let’s continue this fascinating discussion and enrich our collective understanding.
+I hope this exploration into the concepts of eternity and divinity has provided food for thought. Your perspectives and interpretations are invaluable in this ongoing dialogue. How do you perceive eternity in the context of your own beliefs and understandings? Do you see it as a linear progression, a timeless state, or something else entirely? I invite you to share your thoughts and insights in the comments below. Let's continue this fascinating discussion and enrich our collective understanding.
 
 ## References
 
-[1] Strong’s Concordance (G166, αἰώνιος, aiōnios). Retrieved from Blue Letter Bible and Eliyah.com.  
-[2] Strong’s Concordance (H5769, עוֹלָם, ʿôlām). Retrieved from Blue Letter Bible and Eliyah.com.  
+[1] Strong's Concordance (G166, αἰώνιος, aiōnios). Retrieved from Blue Letter Bible and Eliyah.com.  
+[2] Strong's Concordance (H5769, עוֹלָם, ʿôlām). Retrieved from Blue Letter Bible and Eliyah.com.  
 [3] Blocher, Henri. *Yesterday, Today, Forever: Time, Times, Eternity in Biblical Perspective.* Accessed Jan. 9, 2024. pp. 191–194.  
 [4] Lamb, Matthew L. *Eternity and Time.* Accessed Jan. 9, 2024. https://d1wqtxts1xzle7.cloudfront.net/53305007/Eternity_and_Time.pdf. pp. 11–12.  
-[5] Cocker, Emma. *Kairos Time: The Performativity of Timing and Timeliness … or; Between Biding One’s Time and Knowing When to Act.* Accessed [insert date]. https://irep.ntu.ac.uk/id/eprint/27462/1/4697_Cocker.pdf.  
+[5] Cocker, Emma. *Kairos Time: The Performativity of Timing and Timeliness … or; Between Biding One's Time and Knowing When to Act.* Accessed [insert date]. https://irep.ntu.ac.uk/id/eprint/27462/1/4697_Cocker.pdf.  
 [6] Yogapedia. "Para Brahma." Accessed Jan. 9, 2024. https://www.yogapedia.com/definition/8507/para-brahma.  
-[7] Learn Religions. "Wuji (Wu Chi)." Accessed Jan. 9, 2024. https://www.learnreligions.com/wuji-wu-chi-3183136.  
+[7] Learn Religions. "Wuji (Wu Chi)." Accessed Jan. 9, 2024. https://www.learnreligions.com/wuji-wu-chi-3183136.
