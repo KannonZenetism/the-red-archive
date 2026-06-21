@@ -4,6 +4,8 @@
 **Original Last Modified Timestamp:** August 21, 2019 at 12:03 PM  
 **Author:** Aelion Kannon (then unpublished; pre-Zenetist voice)  
 
+> **Archival note:** This main-folder copy is held as the timestamped archival record. Future versions of this work, and the other early and proto-Zenetist writings, are kept in the `proto-zenetist-archive` folder.
+
 ---
 
 ## ✦ Restored Text — August 21, 2019
