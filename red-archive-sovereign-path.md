@@ -8,7 +8,7 @@
 
 ---
 
-> **Authoritative precedence record:** *Precedence Documentation v2* [insert v2 Zenodo DOI / link]. This entry is one view within that broader record.
+> **Current precedence record:** *Precedence Documentation v2* [insert v2 Zenodo DOI / link]. This entry is one view within that broader record.
 
 > **Chronology is not time. It is trajectory.**
 
