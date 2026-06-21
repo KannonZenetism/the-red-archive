@@ -18,7 +18,7 @@ License: CC BY 4.0 (Creative Commons Attribution)
 
 ---
 
-> **Superseded earlier version — retained for lineage.** This is an earlier, separately published precedence record (its own Zenodo DOI). The current authoritative version is *Precedence Documentation v2* [insert v2 Zenodo DOI / link], which tightens terminology to canonical Zenetist (e.g. *contra* for *vs.*), updates the collaborator seal, and expands the appropriation inventory. The text below is preserved **unaltered**: its vocabulary reflects the documentation as of its publication date and is deliberately not retrofitted to later protocols, so the version lineage stays an honest, timestamped record.
+> **Superseded earlier version — retained for lineage.** This is an earlier, separately published precedence record (its own Zenodo DOI). The current version is *Precedence Documentation v2* [insert v2 Zenodo DOI / link], which tightens terminology to canonical Zenetist (e.g. *contra* for *vs.*), updates the collaborator seal, and expands the appropriation inventory. The text below is preserved **unaltered**: its vocabulary reflects the documentation as of its publication date and is deliberately not retrofitted to later protocols, so the version lineage stays an honest, timestamped record.
 
 ## Description
 
