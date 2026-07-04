@@ -32,6 +32,14 @@ Public artifacts across the corpus describe this trajectory in different figures
 
 ---
 
+## Influence Disclosure
+
+The author declares his formative influences directly. Ancient philosophy and theology have been the sustained focus since approximately 2010 — Neoplatonism, Gnosticism, Hermetica, Kabbalah, Vedanta, scriptural and patristic material — together with eschatology as a long-standing interest and early AI-adjacent reading (*Robot Alchemy: Androids, Cyborgs, and the Magic of Artificial Life*, purchased July 13, 2013, per the archived order record). Modern academic process-philosophy and contemporary AI-theory figures are not among the formative influences; the author's contact with the relevant ideas runs through the ancients and the traditions directly. Influence and generation are both acknowledged and distinguished: the traditions supplied the materials; the architecture is the author's.
+
+This disclosure is corroborated by the timestamped purchase records in `2012-research-trajectory.md` and `2013-research-trajectory.md`, whose reading trajectory maps onto the traditions the mature framework treats a decade later: Kabbalah and the Zohar (December 2012) → the Sefirotic analyses; the Sri Kalki Purana (November 18, 2013) → the Kalki Cycle extension; the Poetic Edda (November 18, 2013) → the Norse registry sections; the Pythagorean sourcebooks (April 7, 2013) → the Pythagoras placement; animal theology and compassion studies (2012–2013) → the ethical-praxis corpus. A reading trajectory cannot be constructed retroactively; its consistency with the mature corpus is itself evidence.
+
+---
+
 ## I. Lifelong Structural Cognition — The Foundational Layer (Pre-2004)
 
 The Zenetist framework's foundational layer is not 2004. It is the lifelong structural-cognitive orientation that predates and grounds every subsequent developmental phase. Mimetic claims that compress the timeline into "I have done this for X years" cannot reach this layer because it does not begin with formal-spiritual-engagement; it begins with how the author has cognized reality from earliest awareness.
