@@ -26,6 +26,12 @@ The author is not establishing an academic-authority claim. Engagement with form
 
 ---
 
+## Timeline Key — Reading the Figures
+
+Public artifacts across the corpus describe this trajectory in different figures — "forty years," "decades," "twenty-two years," "formalized 2025." All describe one life at the registers this document establishes. **"Forty years" and "a lifetime"** name the structural-cognitive layer of Section I: the author, diagnosed Level 1 Autistic at age forty, has cognized structurally from earliest awareness — and wrote "my forty years" as a forty-year-old naming his whole life. **"Decades"** names the sustained esoteric engagement spanning the ritual-exploration period (c. 1996–2003) and everything after. **"Twenty-two years"** names the sovereign spiritual reorientation of Section II (2004), counted to the present. **"2025"** names formal systematization (Section III, Final Systematization Phase). Earlier artifacts citing a single figure cite one of these registers; none contradicts the others. This key is the interpretive statement: stratum artifacts are read through it, not edited to match it.
+
+---
+
 ## I. Lifelong Structural Cognition — The Foundational Layer (Pre-2004)
 
 The Zenetist framework's foundational layer is not 2004. It is the lifelong structural-cognitive orientation that predates and grounds every subsequent developmental phase. Mimetic claims that compress the timeline into "I have done this for X years" cannot reach this layer because it does not begin with formal-spiritual-engagement; it begins with how the author has cognized reality from earliest awareness.
