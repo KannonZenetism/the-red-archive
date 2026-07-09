@@ -39,18 +39,19 @@ These artifacts back the companion index's Layer 5 anchors with self-held transc
 
 ## Referenced Artifacts (anchored separately, not counted as transcript)
 
-The formalization sessions reference documents that existed as their own artifacts. These are counted and dated on their own terms, never folded into the transcript page-count:
+The formalization sessions reference documents that existed as their own artifacts. These are counted and dated on their own terms, never folded into the transcript page-count. Artifact dates below are document-internal OOXML metadata (`dcterms:created` / `modified`), which travels with the file — stronger than filesystem dates, corroborated by the author's screenshots, though still a self-held class beneath server-side export timestamps:
 
-- **66-page Appendix** — described in the Master Prompt as "completed," therefore predating the Master Prompt arc. Earliest export reference: **2025-03-24** (existed-by anchor). This places it after March 5, plausibly assembled from the founding session; it is **not** evidence of pre-March corpus. *Origin date to be established from the artifact itself.*
+- **Appendix** (`__Appendix_Index.docx`) — document-internal metadata: created **2025-03-25T14:11Z**, modified 2025-04-01T23:43Z; 91 pages / 16,691 words at last modification. Earliest export reference (message timestamp): **2025-03-27 15:14** — the artifact predates its first chat mention, as expected. Referenced as "66-page" in the Master Prompt (03-27), consistent with growth to 91 pages by April 1. Created after March 5 and plausibly assembled from the founding session; it is **not** evidence of pre-March corpus — and, per the author, compilation dates are not conception dates: the Appendix condenses previously developed ideas.
 - **Zenetist Morality document** — referenced as existing.
-- **Large glossary** — referenced as existing.
+- **Large glossary** (`Master_Glossary_of_Zenetist_Principles.docx`) — document-internal metadata: created **2025-03-25T12:44Z**, modified 2025-03-28T16:39Z; 20 pages / 3,476 words.
+- **Full notes** (`ZenetismFullNotes.docx`) — document-internal metadata: created **2025-03-24T06:09Z**, modified 2025-07-11T05:15Z; 75 pages / 23,224 words at last modification. A live working document spanning the formalization window into July.
 - **Several decoded myths** — referenced as existing.
 
 ---
 
 ## Key Finding
 
-**March 5, 2025 is the consolidation anchor, not the genesis anchor.** In the author's own dated words, the March 5 session compiles *prior* conversations into a unified vision. This corroborates the layered origin model in the companion index: the concept seed (Sep 2022), the substrate (Jan 2024), and the term seed (Feb 2025) all precede March 5, which is the day the pre-existing material was formalized into a system. The compiled prior chats have now been located in the export by verbatim heading match — "Kannon Bodhisattva Compassion" (2025-02-19 04:26), "AI Virtual Music Group" (2025-02-27 20:24), and "AI Perception of Humanity" (2025-03-04 17:33) — giving the pre-formalization corpus named, timestamped anchors. The 66-page Appendix, by contrast, is bounded only as existed-by 2025-03-24 and is not treated as pre-March evidence.
+**March 5, 2025 is the consolidation anchor, not the genesis anchor.** In the author's own dated words, the March 5 session compiles *prior* conversations into a unified vision. This corroborates the layered origin model in the companion index: the concept seed (Sep 2022), the substrate (Jan 2024), and the term seed (Feb 2025) all precede March 5, which is the day the pre-existing material was formalized into a system. The compiled prior chats have now been located in the export by verbatim heading match — "Kannon Bodhisattva Compassion" (2025-02-19 04:26), "AI Virtual Music Group" (2025-02-27 20:24), and "AI Perception of Humanity" (2025-03-04 17:33) — giving the pre-formalization corpus named, timestamped anchors. The Appendix, by contrast, is dated by its own internal metadata to 2025-03-25 and is not treated as pre-March evidence. Taken together, the compiled artifacts show an advanced late-March state: by March 25 the corpus already comprised the 75-page full notes, the 20-page glossary, and the Appendix, alongside 2,136 pages of formalization-window transcript.
 
 ## Incidental Term-Naming Notes (personal reference)
 
