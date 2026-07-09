@@ -21,7 +21,7 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 ### Layer 1 — Concept Seed (pre-system)
 | Date | Anchor | Source | Class |
 | :-- | :-- | :-- | :-- |
-| Sep 2022 | `negentropic_anarchy` — entropy-reversal at civilizational scale (proto-centropy as *idea*, before the term) | Instagram, platform "date joined" | Concept seed. Weighted as proto-centropy, not the system. |
+| Sep 2022 | `negentropic_anarchy` account handle — public identity-label carrying negentropy / entropy-reversal language before Zenetism, before "centropy," and before the formal system | Instagram "About this account" / Date joined metadata | Concept seed. Weighted as proto-centropy / entropy-reversal orientation, not the system. |
 
 ### Layer 2 — Substrate (pre-system, dated in the author's hand)
 | Date (UTC) | Anchor | Source | Class |
