@@ -42,7 +42,7 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 | 2025-03-19 07:19 | **"Zenetism"** selected as the system name (from candidates; author's choice) | GPT: same chat | Naming anchor |
 | 2025-03-19 08:05 | **bifurcal** structure appears | GPT: same chat | Core architecture |
 | 2025-03-22 | **lattice** appears | GPT: same chat | Core architecture |
-| 2025-03 (Philosophy Sage arc) | Master Prompt describes an **already-completed 66-page Appendix**, large glossary, decoded myths, and full Morality document — substantial corpus referenced as existing *before* the session | GPT: "Philosophy Sage" arc (1,568 pp. verified) | Referenced-artifact evidence of pre-March corpus; artifacts anchored separately (see Companion ledger) |
+| 2025-03-24 → 03-31 (Master Prompt arc) | Master Prompt describes an **already-completed 66-page Appendix**, large glossary, decoded myths, and full Morality document — substantial corpus referenced as existing *before* the session | GPT: Master Prompt arc (1,568 pp. verified) | Referenced-artifact evidence of advanced late-March corpus; artifacts anchored separately (see Companion ledger) |
 
 ### Layer 4 — Continuous Build (the live-authoring record)
 | Span | Character | Source |
