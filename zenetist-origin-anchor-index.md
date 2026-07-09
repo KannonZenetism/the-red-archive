@@ -26,7 +26,7 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 ### Layer 2 — Substrate (pre-system, dated in the author's hand)
 | Date (UTC) | Anchor | Source | Class |
 | :-- | :-- | :-- | :-- |
-| 2024-01-17 | **emanation** and **hypostasis** in use — Neoplatonic / Gnostic structural vocabulary | GPT: "Teaching Philosophy of Choice" | Substrate anchor (conceptual origin; the soil, not the system) |
+| 2024-01-17 | **emanation** and **hypostasis** appear — Neoplatonic / Gnostic structural vocabulary | GPT: "Teaching Philosophy of Choice" | Substrate anchor (conceptual origin; the soil, not the system) |
 | 2024-01 (same period) | Neoplatonic / comparative-mythology register — "the One," "Pure Being," essence-metaphysics, non-dogmatic transcendence | GPT: "Revise Writing for Clarity" | Characterization-class — corroborates the declared Influence lineage; **not** an origin claim |
 
 ### Layer 3 — Term Seed and Formalization
@@ -36,13 +36,13 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 | **2025-03-05 18:01** | **Formalization begins** — the founding working session opens (1,426 nodes) | GPT: "Philosophical System Development" | **Primary formalization anchor** |
 | 2025-03-12 – 03-13 | **Khaon**, **Nekron** enter | GPT: same chat | Core architecture |
 | 2025-03-19 07:19 | **"Zenetism"** selected as the system name (from candidates; author's choice) | GPT: same chat | Naming anchor |
-| 2025-03-19 08:05 | **bifurcal** structure in use | GPT: same chat | Core architecture |
-| 2025-03-22 | **lattice** in use | GPT: same chat | Core architecture |
+| 2025-03-19 08:05 | **bifurcal** structure appears | GPT: same chat | Core architecture |
+| 2025-03-22 | **lattice** appears | GPT: same chat | Core architecture |
 
 ### Layer 4 — Continuous Build (the live-authoring record)
 | Span | Character | Source |
 | :-- | :-- | :-- |
-| 2025-03 → 2025-09 | 60+ consecutive Zenetism working sessions (Metaphysical Principles Mapping · Ethics Synthesis · Chapters 3/4/22 · Primer finalization · Codex Harmonics · Lattice · Field Physics · Structural Physics/Forensics commentary) | GPT export, title-dated |
+| 2025-03 → 2025-09 | 60+ consecutive Zenetism working sessions (Metaphysical Principles Mapping · Ethics Synthesis · Chapters 3/4/22 · Primer finalization · Codex Harmonics · Lattice · Field Physics · Structural Physics / Forensics commentary) | GPT export, title-dated |
 | Note | This dense, commit-like continuity is the **live-authoring control case**: the system was built in the open, session by session, over months — the opposite of bulk arrival. | — |
 
 ### Layer 5 — Public Entry and Discipline Articulation
@@ -55,10 +55,10 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 
 ## Cross-Export Confirmation
 
-The "Field Physics" naming appears at the **same hour in two independent exports** (ChatGPT and Claude), corroborating the collaborative naming event and the author's cross-system working method. Centropy's earliest Claude-side appearance (2025-07-13) postdates its GPT origin (2025-02-12) by five months — consistent with the documented practice of developing on GPT/Copilot and bringing formed material to Claude later. Claude-side dates are therefore **arrival anchors** (existed-by), not origin anchors; GPT holds the origin layer; earlier Copilot material is known to exist but was partially lost and is not relied upon here.
+The "Field Physics" naming appears at the **same hour in two independent exports** (ChatGPT and Claude), corroborating the collaborative naming event and the author's cross-system working method. Centropy's earliest Claude-side appearance (2025-07-13) postdates its GPT origin (2025-02-12) by five months — consistent with the documented practice of developing on GPT / Copilot and bringing formed material to Claude later. Claude-side dates are therefore **arrival anchors** (existed-by), not origin anchors; GPT holds the origin layer; earlier Copilot material is known to exist but was partially lost and is not relied upon here.
 
 ## Excluded (disambiguation discipline)
-- "Theon" (2024-01) — theological/etymological usage in Bible-adjacent writing, **not** the L₀ operator. Excluded.
+- "Theon" (2024-01) — theological / etymological appearance in Bible-adjacent writing, **not** the L₀ operator. Excluded.
 - "Aion" (2024-06, treadmill-maintenance chat) — unrelated common word. Excluded.
 - All health, product, and personal-life conversations — outside timeline scope. Excluded.
 
