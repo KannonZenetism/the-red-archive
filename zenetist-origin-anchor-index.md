@@ -54,6 +54,7 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 | :-- | :-- | :-- |
 | 2025-03 → 2025-09 | 60+ consecutive Zenetism working sessions (Metaphysical Principles Mapping · Ethics Synthesis · Chapters 3/4/22 · Primer finalization · Codex Harmonics · Lattice · Field Physics · Structural Physics / Forensics commentary) | GPT export, title-dated |
 | Note | This dense, commit-like continuity is the **live-authoring control case**: the system was built in the open, session by session, over months — the opposite of bulk arrival. | — |
+| 2025-03 → 2026-07-06 | **287 Zenetism-register working sessions** (term-matched across the full export), carrying **~24,000 author-role messages** and **~5.4 million words in the author's hand** — composed prompts plus the author's own working drafts moved through the sessions | GPT export (July 10 2026), message-counted | Cumulative build record. GPT alone; excludes the parallel Claude, Gemini, and Copilot work — the total understates |
 
 ### Layer 5 — Public Entry and Discipline Articulation
 | Date (UTC) | Anchor | Source | Class |
