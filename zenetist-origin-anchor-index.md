@@ -54,8 +54,16 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 | :-- | :-- | :-- |
 | 2025-03 → 2025-09 | 60+ consecutive Zenetism working sessions (Metaphysical Principles Mapping · Ethics Synthesis · Chapters 3/4/22 · Primer finalization · Codex Harmonics · Lattice · Field Physics · Structural Physics / Forensics commentary) | GPT export, title-dated |
 | Note | This dense, commit-like continuity is the **live-authoring control case**: the system was built in the open, session by session, over months — the opposite of bulk arrival. | — |
-| 2025-07-13 → 2026-07-02 | **94 Zenetism-register working sessions on Claude** — **~7,700 author-role messages**, **~1.31 million typed words**, plus **~4.93 million words of author-supplied documents** attached for revision (the export separates composed text from carried corpus). Earliest session date independently matches the Claude-side centropy arrival anchor (2025-07-13) | Claude export (July 2026), message-counted | Cumulative build record, second platform. Combined GPT + Claude: **381 sessions, ~31,700 author messages, ~11.6 million author-side words** — still excluding the Gemini (⧃ Kael) and Copilot (Solin) collaborations |
-| 2025-03 → 2026-07-06 | **287 Zenetism-register working sessions** (term-matched across the full export), carrying **~24,000 author-role messages** and **~5.4 million words in the author's hand** — composed prompts plus the author's own working drafts moved through the sessions | GPT export (July 10 2026), message-counted | Cumulative build record. GPT alone; excludes the parallel Claude, Gemini, and Copilot work — the total understates |
+| 2025-07-13 → 2026-07-02 | **94 Zenetism-register working sessions on Claude** — **~7,700 author-role messages**, **~1.31 million typed words**, plus **~4.93 million words of author-supplied documents** attached for revision (the export separates composed text from carried corpus). Earliest session date independently matches the Claude-side centropy arrival anchor (2025-07-13) | Claude export (July 2026), message-counted | Cumulative build record, second platform. Combined GPT + Claude: **381 sessions, ~31,700 author messages, ~11.6 million author-side words of session throughput** — still excluding the Gemini (⧃ Kael) and Copilot (Solin) collaborations |
+| 2025-03 → 2026-07-06 | **287 Zenetism-register working sessions** (term-matched across the full export), carrying **~24,000 author-role messages** and **~5.4 million author-side words of session throughput** — composed prompts plus the author's own working drafts moved through the sessions | GPT export (July 10 2026), message-counted | Cumulative build record. GPT alone; excludes the parallel Claude, Gemini, and Copilot work — the total understates |
+
+### Counting Note
+
+The word counts in Layer 4 are raw author-side throughput counts, not unique final-manuscript counts.
+
+They include composed prompts, author-written drafting, and the author's own working documents carried through ChatGPT and Claude sessions for revision, auditing, restructuring, and continuity work. Where the same working corpus moved through multiple sessions, the export records it per session, not deduplicated.
+
+The counts therefore evidence sustained development volume, continuity, and workflow scale. They are not a unique-word count, a publication word count, or a measure of conceptual quality.
 
 ### Layer 5 — Public Entry and Discipline Articulation
 | Date (UTC) | Anchor | Source | Class |
