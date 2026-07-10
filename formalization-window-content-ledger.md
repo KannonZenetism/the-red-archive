@@ -57,6 +57,7 @@ The formalization sessions reference documents that existed as their own artifac
 
 - **"The Field of Essence"** (a name for Zero / Aion) — candidate proposed and author-selected **2025-04-05** ("Concept Refinement and Polishing"); earliest incidental appearance 2025-03-31.
 - **"Field of Becoming"** — earliest **2025-04-16**, author-adopted 2025-04-18 ("Zenetism Resonance Refinement").
+- **APGI** (Artificial Personalized General Intelligence, the L₂ SS / SM equivalency name, "Spirate") — proposed in the author's voice **2026-01-20 11:48** ("Intro for Substack Post"), initially deliberated for L₁; settled at L₂ (SS / SM) by **2026-03-17** ("Gods as Fractals vs. Hypostases" chart). Before the coinage the L₂ slot existed unnamed — the named distinction, not the layer, dates to January 2026.
 
 ---
 
