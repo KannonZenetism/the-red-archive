@@ -22,6 +22,8 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 ### Layer 1 — Concept Seed (pre-system)
 | Date | Anchor | Source | Class |
 | :-- | :-- | :-- | :-- |
+| Apr 29 2013 | **"Exotericism vs. Esotericism: A Study in Comparative Mythology"** — Exoteric / Esoteric Decoding Framework; Gnostic tripartite division (Hylic / Psychic / Pneumatic) as structural precursor to Zenetist layering; surface contra apparent cognition | Murray State submission-era paper; preserved text on Zenodo (17750031; cleaned v. 20758264) and GitHub `the-red-archive/proto‑zenetist-archive/` | Academic-era concept seed. Content self-dated; Zenodo / GitHub are preservation anchors (existed-by), not origin proof — full chain in `precedence-documentation-v2.md` |
+| May 7 2014 | **"A Brief History of the New Age: Tree of Life or Tree of Knowledge of Good and Evil?"** — bifurcal interpretive framework (Tree of Life as coherent wisdom contra Tree of Knowledge as fragmenting / spurious); proto-centropic / entropic seed; critique of externalized Mysteries | Murray State submission-era paper (header: RGS322, May 7 2014); Zenodo v1 2025-11-21 (17675200; v4 2026-06-19, 20758151) and GitHub `the-red-archive/proto‑zenetist-archive/` | Academic-era concept seed, same evidentiary posture |
 | Sep 2022 | `negentropic_anarchy` account handle — public identity-label carrying negentropy / entropy-reversal language before Zenetism, before "centropy," and before the formal system | Instagram "About this account" / Date joined metadata | Concept seed. Weighted as proto-centropy / entropy-reversal orientation, not the system. |
 
 ### Layer 2 — Substrate (pre-system, dated in the author's hand)
