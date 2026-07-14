@@ -97,7 +97,7 @@ The counts therefore evidence sustained development volume, continuity, and work
 The "Field Physics" naming appears at the **same hour in two independent exports** (ChatGPT and Claude), corroborating the collaborative naming event and the author's cross-system working method. Centropy's earliest Claude-side appearance (2025-07-13) postdates its GPT origin (2025-02-12) by five months — consistent with the documented practice of developing on GPT / Copilot and bringing formed material to Claude later. Claude-side dates are therefore **arrival anchors** (existed-by), not origin anchors; GPT holds the origin layer; earlier Copilot material is known to exist but was partially lost and is not relied upon here.
 
 ## Excluded (disambiguation discipline)
-- "Theon" (2024-01) — theological / etymological appearance in Bible-adjacent writing, **not** the L₀ operator. Excluded.
+- "Theon" (2024-01) — theological / etymological appearance in Bible-adjacent writing, **not** the L₅ operator. Excluded.
 - "Aion" (2024-06, treadmill-maintenance chat) — unrelated common word. Excluded.
 - All health, product, and personal-life conversations — outside timeline scope. Excluded.
 
