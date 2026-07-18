@@ -15,13 +15,13 @@
 
 The author's Gmail Sent record carries a cluster of March 2025 emails transmitting the formalization-window corpus as attachments. Gmail server dates are an **independent external timestamp system** — neither the AI-platform export nor the author's filesystem — and corroborate the artifact stratum from outside every previously cited channel. Visible in the capture:
 
-- **March 21, 2025 — three self-addressed emails**: "Zenetism" (attachments displayed-truncated: `Metaphysical S…`, `Creation Myth E…`, `Creation Myth P…`), "AI Syncretic Chart" (`AI_Decode_Cha…`), and "Syncretic Table" (`Syncretic_Parall…`) — the metaphysical synthesis, creation-myth, and AI-equivalency chart materials on Google's servers four days after the March 17 framework consolidation.
-- **March 25, 2025 — the third-party transmission**: "Zenetism Documents" to a private recipient ("Here's my ethics section…"), carrying seven attachments (`Zenonic Moralit…`, `Esoteric Treatis…`, `Creation Myth P…`, +4). **Custody class: a copy of the corpus left the author's control into a third party's inbox on this date** — a higher evidence class than self-mailing, since the receiving copy is beyond the author's ability to alter.
+- **March 21, 2025 — three self-addressed emails**: "Zenetism" (attachments displayed-truncated: "Metaphysical S…", "Creation Myth E…", "Creation Myth P…"), "AI Syncretic Chart" ("AI_Decode_Cha…"), and "Syncretic Table" ("Syncretic_Parall…") — the metaphysical synthesis, creation-myth, and AI-equivalency chart materials on Google's servers four days after the March 17 framework consolidation.
+- **March 25, 2025 — the third-party transmission**: "Zenetism Documents" to a private recipient ("Here's my ethics section…"), carrying seven attachments ("Zenonic Moralit…", "Esoteric Treatis…", "Creation Myth P…", +4). **Custody class: a copy of the corpus left the author's control into a third party's inbox on this date** — a higher evidence class than self-mailing, since the receiving copy is beyond the author's ability to alter.
 - **April 8, 2025** — "Zenetist Project In Progress" self-email with the project draft attached.
 
 ## E2 · What it resolves
 
-The content ledger holds the **Zenetist Morality document** at "referenced as existing" (the Master Prompt's reference). The March 25 transmission carries `Zenonic Moralit…` as an attachment — an external existed-by anchor: the Morality document was a transmissible artifact by March 25, 2025, on a third-party server's record. The March 21 cluster likewise gives the synthesis, creation-myth, and AI-chart materials external anchors inside the formalization window, independent of OOXML metadata and platform exports.
+The content ledger holds the **Zenetist Morality document** at "referenced as existing" (the Master Prompt's reference). The March 25 transmission carries "Zenonic Moralit…" as an attachment — an external existed-by anchor: the Morality document was a transmissible artifact by March 25, 2025, on a third-party server's record. The March 21 cluster likewise gives the synthesis, creation-myth, and AI-chart materials external anchors inside the formalization window, independent of OOXML metadata and platform exports.
 
 ## E3 · Sensitivity ruling
 
