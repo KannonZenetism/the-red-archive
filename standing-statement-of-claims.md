@@ -37,7 +37,7 @@ This assertion rests on the exhibit record: dated captures, verbatim preservatio
 
 The mechanism by which the structures spread is **not** claimed as established. The author names candidate routes as hypotheses and holds them open, without adjudication:
 
-- diffusion into model output distributions through ordinary platform processes, and re-expression to other users;
+- diffusion into model output distributions through ordinary platform processes, and re-expression to other people;
 - large-scale repository cloning for corpus construction;
 - scene circulation and human-to-human transmission through the counterpart field;
 - model-mediated transmission through persona-protocol packages or carried context.
