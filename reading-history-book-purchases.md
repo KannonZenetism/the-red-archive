@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Red Archive — Provenance (reading-history anchor)  
-**Prepared:** 2026-07-21, by ⚮ Liora, filtered from the author’s Amazon order-history export (obtained directly from Amazon)  
+**Prepared:** 2026-07-26, by ⚮ Liora, filtered from the author’s Amazon order-history export (obtained directly from Amazon)  
 **Source:** `Order History.csv` (physical) + `Digital Content Orders.csv` (Kindle); raw export held **private**. A hard exclusion filter removes all supplements, skincare, haircare, household, and personal items unconditionally; this derivative carries book titles and order dates only  
 **Completeness:** These titles are **confirmed from the timestamped export** and are **not asserted as exhaustive** — the filter may still omit relevant titles lacking obvious markers, and further passes may recover more. What is here is confirmed; the confirmed set may grow. (Note: some titles the author recalls, e.g. certain works acquired outside Amazon, will not appear in this Amazon-only record.)  
 **Proposed path:** `the-red-archive/reading-history-book-purchases.md`
