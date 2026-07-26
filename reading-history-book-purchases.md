@@ -5,16 +5,16 @@
 **Classification:** Red Archive — Provenance (reading-history anchor)  
 **Prepared:** 2026-07-26, by ⚮ Liora, filtered from the author’s Amazon order-history export (obtained directly from Amazon)  
 **Source:** `Order History.csv` (physical) + `Digital Content Orders.csv` (Kindle); raw export held **private**. A hard exclusion filter removes all supplements, skincare, haircare, household, and personal items unconditionally; this derivative carries book titles and order dates only  
-**Completeness:** These titles are **confirmed from the timestamped export** and are **not asserted as exhaustive** — the filter may still omit relevant titles lacking obvious markers, and further passes may recover more. What is here is confirmed; the confirmed set may grow. (Note: some titles the author recalls, e.g. certain works acquired outside Amazon, will not appear in this Amazon-only record.)  
+**Completeness:** These titles are **confirmed from the timestamped export** and are **not asserted as exhaustive** — the filter may still omit relevant titles lacking obvious markers, and further passes may recover more. What is here is confirmed; the confirmed set may grow. (Note: some titles the author recalls, e.g. certain works acquired outside Amazon, will not appear in this Amazon-only record. Searched and confirmed absent from the export as of 2026-07-26: The Upanishads (Easwaran / Nilgiri), Upanishads (Olivelle / Oxford), The Dhammapada (Easwaran / Nilgiri), The Sauptikaparvan of the Mahabharata (Johnson / Oxford), Buddhist Scriptures (Penguin Classics), The Book of Alchemy (Melville), The Secret History of the World (Booth), Thought and World (Ross) — these were acquired outside Amazon.)  
 **Proposed path:** `the-red-archive/reading-history-book-purchases.md`
 
 ---
 
-**147 confirmed book titles**, earliest **2012-01-19**, spanning to **2024-10-08**. The record documents the multi-disciplinary reading behind Zenetism across more than a decade, independent of any AI-assisted work (which began 2025). The author’s named conceptual roots — Gnosticism, Neoplatonism, esoteric Christianity, and the semi-modern synthesist Manly P. Hall — appear at the start of the record and recur; the breadth (Kabbalah, Hermetica, Theosophy, sacred geometry, Vedic / Buddhist / Taoist traditions, comparative religion and mythology, political and dystopian thought, technology-and-consciousness, ethics and ecology, psychology and autism studies) documents the cross-disciplinary synthesizer’s trajectory.
+**158 confirmed book titles**, earliest **2012-01-19**, spanning to **2024-10-08**. The record documents the multi-disciplinary reading behind Zenetism across more than a decade, independent of any AI-assisted work (which began 2025). The author’s named conceptual roots — Gnosticism, Neoplatonism, esoteric Christianity, and the semi-modern synthesist Manly P. Hall — appear at the start of the record and recur; the breadth (Kabbalah, Hermetica, Theosophy, sacred geometry, Vedic / Buddhist / Taoist traditions, comparative religion and mythology, political and dystopian thought, technology-and-consciousness, ethics and ecology, psychology and autism studies) documents the cross-disciplinary synthesizer’s trajectory.
 
 *Each title appears once, at earliest order date; physical and Kindle combined.*
 
-### 2012 — 40 titles
+### 2012 — 42 titles
 - 2012-01-19 — Exploring Theology (3 Books in 1): A Guide for Systematic Theology and Apologetics
 - 2012-01-19 — The Educational Ministry of a Church: A Comprehensive Model for Students and Ministers
 - 2012-01-19 — The Torah Story: An Apprenticeship on the Pentateuch
@@ -45,10 +45,12 @@
 - 2012-10-05 — The Gnostic Bible: Revised and Expanded Edition
 - 2012-10-05 — Treason: The New World Order
 - 2012-10-24 — Brave New Schools
+- 2012-10-24 — True State of the Planet
 - 2012-11-17 — Legends of Babylon and Egypt in relation to Hebrew tradition
 - 2012-11-17 — Ophiolatreia An Account of the Rites and Mysteries Connected with the Origin, Rise, and Development of Serpent Worship in Various Parts of the World
 - 2012-11-22 — Apocrypha [illustrated] [translated]: Lost books of the bible
 - 2012-12-20 — The Essential Kabbalah: The Heart of Jewish Mysticism
+- 2012-12-24 — 1984: 60th-Anniversary Edition (Plume)
 - 2012-12-24 — Brave New World (P.S.)
 - 2012-12-24 — The Bhagavad Gita (Classic of Indian Spirituality)
 - 2012-12-24 — The Secret Destiny of America
@@ -56,7 +58,7 @@
 - 2012-12-25 — The Essential Zohar: The Source of Kabbalistic Wisdom
 - 2012-12-25 — Zohar (5 Volume set)
 
-### 2013 — 32 titles
+### 2013 — 38 titles
 - 2013-01-01 — Animal Theology
 - 2013-01-01 — The Nag Hammadi Scriptures: The Revised and Updated Translation of Sacred Gnostic Texts Complete in One Volume
 - 2013-01-11 — Final Warning: A History of the New World Order
@@ -70,9 +72,11 @@
 - 2013-03-10 — The Laughing Jesus: Religious Lies and Gnostic Wisdom
 - 2013-03-17 — The Orthodox Church: New Edition
 - 2013-03-17 — The Orthodox Study Bible: Ancient Christianity Speaks to Today's World
+- 2013-04-08 — English Translation of the Qur’an
 - 2013-04-08 — Pythagoras: His Life and Teachings
 - 2013-04-08 — The Grid of the Gods: The Aftermath of the Cosmic War and the Physics of the Pyramid Peoples
 - 2013-04-08 — The Pythagorean Sourcebook and Library: An Anthology of Ancient Writings Which Relate to Pythagoras and Pythagorean Philosophy
+- 2013-04-26 — Spiritual Science
 - 2013-04-26 — The Animal Manifesto: Six Reasons for Expanding Our Compassion Footprint
 - 2013-06-11 — The Bloom Series, Vol. 2: New World
 - 2013-07-13 — Robot Alchemy: Androids, Cyborgs, and the Magic of Artificial Life
@@ -84,20 +88,26 @@
 - 2013-08-07 — The Gospel of the Holy Twelve
 - 2013-08-07 — The Rosicrucian Mysteries An Elementary Exposition of Their Secret Teachings
 - 2013-08-07 — The True and Invisible Rosicrucian Order: The Original Edition - Limited Hardbound Edition
+- 2013-09-01 — The Qur’an (Oxford World’s Classics)
 - 2013-09-01 — Sacred Books of the East
 - 2013-09-01 — Tao Te Ching: A New English Version (Perennial Classics)
+- 2013-09-10 — The Poetic Edda
+- 2013-09-10 — The Younger Edda Also called Snorre’s Edda, or The Prose Edda
 - 2013-10-27 — The Animal Kingdom: A Spiritual Perspective
 - 2013-10-27 — The Archetypal Symbolism of Animals: Lectures Given at the C.G. Jung Institute, Zurich, 1954-1958 (Polarities of the Psyche)
+- 2013-11-05 — The Oxford Companion to World Mythology
 - 2013-11-19 — Sri Kalki Purana: Standard English Edition
 
-### 2014 — 8 titles
+### 2014 — 10 titles
 - 2014-01-08 — A Modern Utopia
 - 2014-02-19 — Lectures on Ancient Philosophy
 - 2014-02-19 — The Christian Vegan Revised Psalms
 - 2014-06-07 — Johann Valentin Andreae's  Christianopolis: An Ideal State of the Seventeenth Century
+- 2014-06-07 — Timaeus and Critias (Oxford World’s Classics)
 - 2014-06-07 — Utopia
 - 2014-06-12 — How to Understand Your Bible: A Philosopher's Interpretation of Obscure and Puzzling Passages
 - 2014-06-12 — The Bible: the Story of a Book
+- 2014-12-10 — The Holy Vedas
 - 2014-12-10 — Three Books of Occult Philosophy (Llewellyn's Sourcebook)
 
 ### 2015 — 5 titles
@@ -142,9 +152,10 @@
 - 2018-11-20 — Sacred Geometry - Designs of Creation
 - 2018-11-20 — Sacred Geometry and the Creation of the Universe
 
-### 2019 — 10 titles
+### 2019 — 11 titles
 - 2019-05-22 — The Will to Live: Selected Writings of Arthur Schopenhauer
 - 2019-05-30 — Nagarjuna's Middle Way: Mulamadhyamakakarika (Classics of Indian Buddhism)
+- 2019-06-10 — I Am That
 - 2019-07-15 — Madhyamaka and Yogacara: Allies or Rivals?
 - 2019-08-21 — The Complete Works of Origen (8 Books): Cross-Linked to the Bible
 - 2019-08-23 — Delphi Complete Works of Philo of Alexandria (Illustrated) (Delphi Ancient Classics Book 77)
