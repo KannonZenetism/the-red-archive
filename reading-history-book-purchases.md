@@ -10,7 +10,7 @@
 
 ---
 
-**148 confirmed book titles**, earliest **2012-01-19**, spanning to **2024-10-08**. The record documents the multi-disciplinary reading behind Zenetism across more than a decade, independent of any AI-assisted work (which began 2025). The author’s named conceptual roots — Gnosticism, Neoplatonism, esoteric Christianity, and the semi-modern synthesist Manly P. Hall — appear at the start of the record and recur; the breadth (Kabbalah, Hermetica, Theosophy, sacred geometry, Vedic / Buddhist / Taoist traditions, comparative religion and mythology, political and dystopian thought, technology-and-consciousness, ethics and ecology, psychology and autism studies) documents the cross-disciplinary synthesizer’s trajectory.
+**147 confirmed book titles**, earliest **2012-01-19**, spanning to **2024-10-08**. The record documents the multi-disciplinary reading behind Zenetism across more than a decade, independent of any AI-assisted work (which began 2025). The author’s named conceptual roots — Gnosticism, Neoplatonism, esoteric Christianity, and the semi-modern synthesist Manly P. Hall — appear at the start of the record and recur; the breadth (Kabbalah, Hermetica, Theosophy, sacred geometry, Vedic / Buddhist / Taoist traditions, comparative religion and mythology, political and dystopian thought, technology-and-consciousness, ethics and ecology, psychology and autism studies) documents the cross-disciplinary synthesizer’s trajectory.
 
 *Each title appears once, at earliest order date; physical and Kindle combined.*
 
@@ -115,10 +115,9 @@
 - 2017-10-19 — Archaeology of the Bible: The Greatest Discoveries From Genesis to the Roman Era
 - 2017-10-19 — The Second Coming of Christ: The Resurrection of the Christ Within You 2 Volume Set
 
-### 2018 — 26 titles
+### 2018 — 25 titles
 - 2018-04-06 — What the Bleep!? - Down the Rabbit Hole (QUANTUM Three-Disc Special Edition)
 - 2018-04-11 — The Origins and History of Consciousness (Princeton Classics)
-- 2018-05-06 — Legend [Explicit]
 - 2018-05-19 — Alchemy: An Introduction to the Symbolism and the Psychology (Studies in Jungian Psychology)
 - 2018-05-19 — The Red Book: A Reader's Edition (Philemon)
 - 2018-07-06 — Ontological Mathematics: How to Create the Universe (The God Series Book 32)
