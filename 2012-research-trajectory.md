@@ -41,7 +41,6 @@ The following titles, purchased between January and December of 2012, demonstrat
 * Zohar (5 Volume Set)  
 * The Tibetan Book of the Dead  
 * The Bhagavad Gita  
-* The Nag Hammadi Scriptures  
 
 ### Syncretic & Structural Synthesis (Sitchin, Orwell, Huxley)
 
@@ -60,24 +59,25 @@ The following titles, purchased between January and December of 2012, demonstrat
 * Treason: The New World Order — Gurudas  
 * Brave New Schools — Berit Kjos  
 * True State of the Planet — Ronald Bailey  
-* Circle of Intrigue — Texe Marrs  
 
 ### Theological & Ecclesial Training
 
 * Paul and His Letters — John Polhill  
 * Christ-Centered Preaching — Bryan Chapell  
 * The Educational Ministry of a Church — Charles Tidwell
-* Animal Theology — Andrew Linzey
 
 ---
 
 ## Appendix: Full 2012 Purchase Log (Chronological)
 
-This appendix contains the **complete set of 41** verifiable titles purchased by Aelion Kannon in 2012, as recorded in the Amazon order archive. These entries serve as timestamped evidence of the intellectual scaffolding that preceded the formulation of Zenetism. The earliest is dated **January 18, 2012**.  
+This appendix contains the **complete set of 53** verifiable titles purchased by Aelion Kannon in 2012, as recorded in the Amazon order archive. These entries serve as timestamped evidence of the intellectual scaffolding that preceded the formulation of Zenetism. The earliest is dated **January 19, 2012**.  
 
 ### January 2012
 
-* The Educational Ministry of a Church — January 18  
+* The Educational Ministry of a Church — January 19  
+* Exploring Theology — January 19  
+* Five Views on Apologetics — January 19  
+* The Torah Story — January 19  
 
 ### February 2012
 
@@ -99,13 +99,24 @@ This appendix contains the **complete set of 41** verifiable titles purchased by
 
 ### April 2012
 
-* World Religions: The Great Faiths Explored and Explained — April 29  
 * Mystery Mark of the New Age — April 29  
 * Dark Secrets of the New Age — April 29  
+* Genesis Revisited — April 29  
+* Numbers: Their Occult Power and Mystic Virtues — April 29  
+
+### May 2012
+
+* World Religions: The Great Faiths Explored and Explained — May 2  
 
 ### June 2012
 
-* What In The World Are They Spraying? — June 13  
+* What In The World Are They Spraying? — June 14  
+* Behind the Green Mask: UN Agenda 21 — June 29  
+
+### July 2012
+
+* Yoga Nidra Meditation — July 4  
+* The Secret Societies of All Ages & Countries, Vol. 2 — July 5  
 
 ### August 2012
 
@@ -113,32 +124,39 @@ This appendix contains the **complete set of 41** verifiable titles purchased by
 * The End of Days — August 5  
 * Twelfth Planet — August 5  
 * Bringers of the Dawn — August 5  
-* Paul and His Letters — August 17  
-* Christ-Centered Preaching — August 17  
+* Paul and His Letters — August 18  
+* Christ-Centered Preaching — August 18  
+* Your Marriage Masterpiece — August 18  
+* Aging, the Individual, and Society — August 20  
+* Choices in Relationships — August 20  
+* Human Development — August 20  
 
 ### October 2012
 
-* The Complete Dead Sea Scrolls in English — October 4  
-* The Gnostic Bible — October 4  
-* Treason: The New World Order — October 4  
-* Living Gnosis — October 4  
-* True State of the Planet — October 23  
-* Brave New Schools — October 23  
+* The Complete Dead Sea Scrolls in English — October 5  
+* The Gnostic Bible — October 5  
+* Treason: The New World Order — October 5  
+* Living Gnosis — October 5  
+* True State of the Planet — October 24  
+* Brave New Schools — October 24  
+
+### November 2012
+
+* Legends of Babylon and Egypt — November 17  
+* Ophiolatreia — November 17  
+* Apocrypha — November 22  
 
 ### December 2012
 
-* The Essential Kabbalah — December 19  
-* Treatise of Revolutionary Psychology — December 23  
-* 1984 — December 23  
-* The Bhagavad Gita — December 23  
-* The Tibetan Book of the Dead — December 23  
-* The Secret Destiny of America — December 23  
-* Brave New World — December 23  
-* The Essential Zohar — December 24  
-* Zohar (5 Volume Set) — December 24  
-* The Nag Hammadi Scriptures — December 31  
-* Animal Theology — December 31  
-* Circle of Intrigue — December 31  
+* The Essential Kabbalah — December 20  
+* Treatise of Revolutionary Psychology — December 24  
+* 1984 — December 24  
+* The Bhagavad Gita — December 24  
+* The Tibetan Book of the Dead — December 24  
+* The Secret Destiny of America — December 24  
+* Brave New World — December 24  
+* The Essential Zohar — December 25  
+* Zohar (5 Volume Set) — December 25  
 
 *This document certifies that Zenetism's structural foundations were under active, cross-traditional construction from January 2012 onward — one documented phase within a longer developmental trajectory.*
 
