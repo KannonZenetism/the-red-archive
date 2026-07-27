@@ -10,11 +10,11 @@
 
 ---
 
-**193 confirmed book titles**, earliest **2012-01-19**, spanning to **2024-10-08**. The record documents the multi-disciplinary reading behind Zenetism across more than a decade, independent of any AI-assisted work (which began 2025). The author’s named conceptual roots — Gnosticism, Neoplatonism, esoteric Christianity, and the semi-modern synthesist Manly P. Hall — appear at the start of the record and recur; the breadth (Kabbalah, Hermetica, Theosophy, sacred geometry, Vedic / Buddhist / Taoist traditions, comparative religion and mythology, political and dystopian thought, technology-and-consciousness, ethics and ecology, psychology and autism studies) documents the cross-disciplinary synthesizer’s trajectory.
+**196 confirmed book titles**, earliest **2012-01-19**, spanning to **2024-10-08**. The record documents the multi-disciplinary reading behind Zenetism across more than a decade, independent of any AI-assisted work (which began 2025). The author’s named conceptual roots — Gnosticism, Neoplatonism, esoteric Christianity, and the semi-modern synthesist Manly P. Hall — appear at the start of the record and recur; the breadth (Kabbalah, Hermetica, Theosophy, sacred geometry, Vedic / Buddhist / Taoist traditions, comparative religion and mythology, political and dystopian thought, technology-and-consciousness, ethics and ecology, psychology and autism studies) documents the cross-disciplinary synthesizer’s trajectory.
 
 *Each title appears once, at earliest order date; physical, Kindle, and disc / audio media combined (non-print formats marked).*
 
-### 2012 — 50 titles
+### 2012 — 53 titles
 - 2012-01-19 — Exploring Theology (3 Books in 1): A Guide for Systematic Theology and Apologetics
 - 2012-01-19 — The Educational Ministry of a Church: A Comprehensive Model for Students and Ministers
 - 2012-01-19 — The Torah Story: An Apprenticeship on the Pentateuch
@@ -24,7 +24,7 @@
 - 2012-03-08 — Externalisation of the Hierarchy (Zzz)
 - 2012-03-08 — Morals and Dogma: Of the Ancient and Accepted Scottish Rite of Freemasonry (Forgotten Books)
 - 2012-03-08 — The Book of the Law: Liber Al Vel Legis
-- 2012-03-08 — The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy (Volumes 1 and 2)
+- 2012-03-09 — The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy (Volumes 1 and 2)
 - 2012-03-13 — From Bethlehem to Calvary
 - 2012-03-13 — The Destiny of the Nations
 - 2012-03-13 — Isis Unveiled Vol I & II
@@ -35,7 +35,8 @@
 - 2012-04-29 — Genesis Revisited
 - 2012-04-29 — Mystery Mark of the New Age: Satan's Designs for World Domination
 - 2012-04-29 — Numbers: Their Occult Power and Mystic Virtues
-- 2012-04-29 — World Religions: The Great Faiths Explored & Explained
+- 2012-05-02 — World Religions: The Great Faiths Explored & Explained
+- 2012-06-14 — What In The World Are They Spraying? (DVD)
 - 2012-06-29 — BEHIND THE GREEN MASK: UN Agenda 21
 - 2012-07-04 — Yoga Nidra Meditation: Extreme Relaxation of Conscious Deep Sleep
 - 2012-07-05 — The Secret Societies of All Ages & Countries, Vol. 2
@@ -46,7 +47,9 @@
 - 2012-08-18 — Christ-Centered Preaching: Redeeming the Expository Sermon
 - 2012-08-18 — Paul and His Letters
 - 2012-08-18 — Your Marriage Masterpiece: God's Amazing Design for Your Life Together (Focus on the Family Books)
+- 2012-08-20 — Aging, the Individual, and Society
 - 2012-08-20 — Choices in Relationships: An Introduction to Marriage and the Family
+- 2012-08-20 — Human Development
 - 2012-10-05 — Living Gnosis: A Practical Guide to Gnostic Christianity
 - 2012-10-05 — The Complete Dead Sea Scrolls in English
 - 2012-10-05 — The Gnostic Bible: Revised and Expanded Edition
@@ -66,7 +69,7 @@
 - 2012-12-25 — The Essential Zohar: The Source of Kabbalistic Wisdom
 - 2012-12-25 — Zohar (5 Volume set)
 
-### 2013 — 44 titles
+### 2013 — 45 titles
 - 2013-01-01 — Animal Theology
 - 2013-01-01 — Circle of Intrigue
 - 2013-01-01 — The Nag Hammadi Scriptures: The Revised and Updated Translation of Sacred Gnostic Texts Complete in One Volume
@@ -82,6 +85,7 @@
 - 2013-03-17 — The Orthodox Church: New Edition
 - 2013-03-17 — The Orthodox Study Bible: Ancient Christianity Speaks to Today's World
 - 2013-04-08 — English Translation of the Qur’an
+- 2013-04-08 — The Emerald Tablet Of Hermes & The Kybalion: Two Classic Bookson Hermetic Philosophy
 - 2013-04-08 — Pythagoras: His Life and Teachings
 - 2013-04-08 — The Grid of the Gods: The Aftermath of the Cosmic War and the Physics of the Pyramid Peoples
 - 2013-04-08 — The Pythagorean Sourcebook and Library: An Anthology of Ancient Writings Which Relate to Pythagoras and Pythagorean Philosophy
@@ -115,7 +119,7 @@
 ### 2014 — 14 titles
 - 2014-01-08 — A Modern Utopia
 - 2014-02-19 — Lectures on Ancient Philosophy
-- 2014-02-19 — The Christian Vegan Revised Psalms
+- 2014-03-13 — The Christian Vegan Revised Psalms
 - 2014-06-05 — The City of the Sun
 - 2014-06-07 — Johann Valentin Andreae's  Christianopolis: An Ideal State of the Seventeenth Century
 - 2014-06-07 — Inner Lives of Minerals, Plants & Animals
@@ -187,7 +191,7 @@
 - 2019-08-28 — L. Annaeus Cornutus: Greek Theology, Fragments, and Testimonia (Writings from the Greco-Roman World 42)
 - 2019-08-28 — Numenius of Apamea, the Father of Neo-Platonism: Works, Biography, Message, Sources, and Influence (Classic Reprint)
 - 2019-10-08 — Plato: The Complete Works : From the greatest Greek philosopher, known for The Republic, Symposium, Apology, Phaedrus, Laws, Crito, Phaedo, Timaeus, Meno, ... Protagoras, Statesman and Critias
-- 2019-10-31 — No Gods No Masters: An Anthology of Anarchism
+- 2019-11-03 — No Gods No Masters: An Anthology of Anarchism
 - 2019-12-26 — Philosophy as a Rite of Rebirth: From Ancient Egypt to Neoplatonism by Algis Uzdavinys (2008-12-07)
 
 ### 2020 — 19 titles
@@ -211,10 +215,9 @@
 - 2020-09-02 — The Works of Philo: Complete and Unabridged, New Updated Edition
 - 2020-09-30 — Proclus the Successor on Poetics and the Homeric Poems: Essays 5 and 6 of His Commentary on the Republic of Plato (Writings from the Greco-Roman World) (English and Greek Edition)
 
-### 2021 — 7 titles
+### 2021 — 6 titles
 - 2021-01-24 — The Reality Sutras: Seeking the Heart of Trika Shaivism
 - 2021-02-25 — Proclus: On the Theology of Plato: with The Elements of Theology [two volumes in one]
-- 2021-03-02 — The God Equation: The Quest for a Theory of Everything
 - 2021-08-08 — The Ecology of Freedom: The Emergence and Dissolution of Hierarchy
 - 2021-10-11 — Be As You Are: The Teachings of Sri Ramana Maharshi (Compass)
 - 2021-12-25 — Brahma Sutra Bhasya Of Shankaracharya
