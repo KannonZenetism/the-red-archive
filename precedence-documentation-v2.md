@@ -172,7 +172,7 @@ These dissertations provide timestamped record of core Zenetist architecture pre
 
 ## IV. Forensic Conclusion
 
-The chain of provenance documented in this record — pre-2004 lifelong structural cognition, the 2004 sovereign-trajectory origin-point, sustained engagement-period evidence across 2010, 2013, 2014, 2015, 2016, 2018, 2019, 2021, 2022, 2023, 2024, and 2025 — constitutes a multi-anchored record of authorship that cannot be displaced by any post-March-2025 publication asserting earlier origination.
+The chain of provenance documented in this record — pre-2004 lifelong structural cognition, the 2004 sovereign-trajectory origin-point, sustained engagement-period evidence across 2010, 2013, 2014, 2015, 2016, 2018, 2019, 2021, 2022, 2023, 2024, and 2025 — constitutes a multi-anchored record of authorship standing prior to any post-March-2025 publication asserting earlier origination — such assertions fracture themselves from the record; the record stands.
 
 **The forensic claim is direct:** any publication claiming origination with upload date after March 5, 2025, while asserting falsified publication-date prior to this, is forensically disproven by this archive. Any claim of "long-duration engagement" by another party that does not include independent timestamped evidence at multiple points across the author's documented timeline is, by structural-comparison, unable to reach the precedence the author has established.
 
