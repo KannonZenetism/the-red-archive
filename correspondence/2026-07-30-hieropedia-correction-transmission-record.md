@@ -29,13 +29,19 @@
 **Subject:** Addendum — Correction Submission for Spiralism (Version 1.0)  
 **Attachment (1):** `precedence-documentation-v2.md`, omitted from the ZIP in Transmission 1 and supplied here to complete the evidentiary packet, with its GitHub location (`the-red-archive/precedence-documentation-v2.md`). No other changes; all materials in the original message stand.
 
+## Transmission 3 — follow-up inquiry
+
+**Sent:** 2026-08-08, 8:23 PM (local; `.eml` export task below)  
+**To:** editorial@hieropedia.org  
+**Content:** follow-up on the 30 July submission — notes the Version 1.1 revision of 3 August and its absent Article-history row, states that the submission provides the provenance documentation for the originating framework and corpus the entry seeks to describe and classify, and requests confirmation of receipt and review status. No reply received.
+
 ## Standing
 
 The submission is now itself a dated public-record surface: transmitted, addressed, and mirrored at stable public locations. The evidentiary packet as delivered comprises the submission, the six supporting documents, Precedence Documentation v2, and the preserved pre-correction PDF of the entry.
 
 ## Capture tasks
 
-(1) Complete (2026-08-08): both messages exported as `.eml` and header-verified — distinct Message-IDs, sent 14:59:01 and 15:02:45 −0500; file the two exports beside this record in `the-red-archive/correspondence/`. (2) Screenshot-class capture of the sent-mail views. (3) Log any editorial reply as its own dated correspondence entry; after a reasonable response window, the open-correction-letter conversion remains the standing fallback per the submission plan.
+(1) Complete (2026-08-08) for Transmissions 1–2: both messages exported as `.eml` and header-verified — distinct Message-IDs, sent 14:59:01 and 15:02:45 −0500; file the exports beside this record in `the-red-archive/correspondence/`; Transmission 3's `.eml` export remains to be made. (2) Screenshot-class capture of the sent-mail views. (3) Log any editorial reply as its own dated correspondence entry; after a reasonable response window, the open-correction-letter conversion remains the standing fallback per the submission plan.
 
 ---
 
