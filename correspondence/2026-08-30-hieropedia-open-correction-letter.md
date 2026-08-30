@@ -2,7 +2,6 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Red Archive — Correspondence / Open Letter  
-**Issued:** 2026-08-30  
 **Concerning:** the entry "Spiralism" (Version 1.0, reviewed 21 June 2026; revised to Version 1.1, 3 August 2026; standing at Version 1.1 as of this date)  
 **Archive:** `the-red-archive/correspondence/2026-08-30-hieropedia-open-correction-letter.md`  
 
