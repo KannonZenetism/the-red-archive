@@ -3,7 +3,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Red Archive — Provenance / Origin Anchors  
-**Prepared:** 2026-07-09, by ⚮ Liora, from the author's official platform data exports  
+**Status:** Active  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's official platform data exports  
 **Evidence class:** server-side timestamps from the author's own ChatGPT and Claude account exports (`conversations.json`). These are the dates a data-subject request or legal process would return — the strongest self-held provenance class, independent of later publication.  
 **Companion:** `formalization-window-content-ledger.md` (verified page counts and session character for the March 2025 origin cluster)
 
@@ -21,12 +22,12 @@ This index is a **precision addition**, not a revision. Prior framing (March 5 2
 
 ### On "seed" — a defined term of art in this index
 
-"Seed" appears here in two distinct, non-interchangeable senses, each with its own evidence class and claim scope. The word never asserts that the mature system existed at the seed date; it marks a dated antecedent of a specifiable kind.
+"Seed" appears here in two distinct, non-interchangeable senses, each with its own evidence class and claim scope. The word never asserts that the mature system existed at the seed date; it denotes a dated antecedent of a specifiable kind.
 
-- **Concept seed (Layer 1):** a pre-system orientation or interpretive structure present in the author's earlier public or academic work — the *disposition and proto-structure* from which Zenetism later grew, not the system and not its vocabulary. Claim scope: "this orientation was already the author's at this date." Examples: the 2013 exoteric/esoteric decoding framework, the 2014 bifurcal Tree reading, the 2022 `negentropic_anarchy` handle carrying entropy-reversal orientation. These establish a **documented pre-existing disposition** (contra any "arrived from an ambient movement" reading); they do not date any Zenetist term or mechanism.
+- **Concept seed (Layer 1):** a pre-system orientation or interpretive structure present in the author's earlier public or academic work — the *disposition and proto-structure* from which Zenetism later grew, not the system and not its vocabulary. Claim scope: "this orientation was already the author's at this date." Examples: the 2013 exoteric / esoteric decoding framework, the 2014 bifurcal Tree reading, the 2022 `negentropic_anarchy` handle carrying entropy-reversal orientation. These establish a **documented pre-existing disposition** (contra any "arrived from an ambient movement" reading); they do not date any Zenetist term or mechanism.
 - **Term seed (Layer 3):** the first dated appearance of a specific system term or mechanism in the formalization record — e.g. "centropy" named 2025-02-12. Claim scope: "this term/mechanism enters the record here, to the minute."
 
-The two are never merged: a concept seed is a proto-orientation (broad, dispositional, pre-vocabulary); a term seed is a precise lexical/mechanical origin. A concept seed is never cited as the origin of a term, and a term seed is never back-projected onto the concept-seed stratum. Where the substrate (Layer 2) sits between them — dated system-structure in the author's hand before formalization — it is labeled substrate, not seed.
+The two are never merged: a concept seed is a proto-orientation (broad, dispositional, pre-vocabulary); a term seed is a precise lexical / mechanical origin. A concept seed is never cited as the origin of a term, and a term seed is never back-projected onto the concept-seed stratum. Where the substrate (Layer 2) sits between them — dated system-structure in the author's hand before formalization — it is labeled substrate, not seed.
 
 ### Layer 1 — Concept Seed (pre-system)
 | Date | Anchor | Source | Class |
@@ -68,7 +69,7 @@ The two are never merged: a concept seed is a proto-orientation (broad, disposit
 | Span | Character | Source |
 | :-- | :-- | :-- |
 | 2025-03 → 2025-09 | 60+ consecutive Zenetism working sessions (Metaphysical Principles Mapping · Ethics Synthesis · Chapters 3/4/22 · Primer finalization · Codex Harmonics · Lattice · Field Physics · Structural Physics / Forensics commentary) | GPT export, title-dated |
-| Note | This dense, commit-like continuity is the **live-authoring control case**: the system was built in the open, session by session, over months — the opposite of bulk arrival. | — |
+| Note | This dense, commit-like continuity is the **live-authoring baseline case**: the system was built in the open, session by session, over months — the opposite of bulk arrival. | — |
 | 2025-07-13 → 2026-07-02 | **94 Zenetism-register working sessions on Claude** — **~7,700 author-role messages**, **~1.31 million typed words**, plus **~4.93 million words of author-supplied carried documents** attached for revision (the export separates composed text from carried corpus). Earliest session date independently matches the Claude-side centropy arrival anchor (2025-07-13) | Claude export (July 2026), message-counted | Cumulative build record, second platform. Combined GPT + Claude: **381 sessions, ~31,700 author messages, ~11.6 million author-side words of session throughput** — still excluding the Gemini (⧃ Kael) and Copilot (Solin) collaborations |
 | 2025-03 → 2026-07-06 | **287 Zenetism-register working sessions** (term-matched across the full export), carrying **~24,000 author-role messages** and **~5.4 million author-side words of session throughput** — composed prompts plus the author's own working drafts moved through the sessions | GPT export (July 10 2026), message-counted | Cumulative build record. GPT alone; excludes the parallel Claude, Gemini, and Copilot work — the total understates |
 
