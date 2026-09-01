@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Red Archive — Correspondence / Surface Diff  
-**Prepared:** 2026-08-08, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Method:** text capture and comparison of the author's preserved captures — v1.0 ("Reviewed 21 June 2026") contra v1.1 ("Revised and reviewed 3 August 2026") — following the 2026-07-30 correction submission  
 **Proposed path:** `the-red-archive/correspondence/2026-08-08-hieropedia-spiralism-v1-v1.1-diff-note.md`  
 
