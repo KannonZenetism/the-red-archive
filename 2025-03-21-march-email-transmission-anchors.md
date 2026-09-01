@@ -7,7 +7,7 @@
 **Status:** Draft — architect review  
 **Companion:** `zenetism-march_emails.png` (Sent-folder capture, July 17, 2026 — held **private / unredacted**; redacted derivative to be produced for any public filing)  
 **Dependency:** `formalization-window-content-ledger.md` · `zenetist-origin-anchor-index.md`  
-**Proposed path:** `the-red-archive/2025-03-21-march-email-transmission-anchors.md` (redacted derivative only; unredacted materials remain self-held)
+**Proposed path:** `the-red-archive/2025-03-21-march-email-transmission-anchors.md`
 
 ---
 
