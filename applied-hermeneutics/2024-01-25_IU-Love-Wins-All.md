@@ -1,6 +1,7 @@
 # Symbolic Analysis: IU - "Love Wins All" Music Video
 
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
+**Status:** Veracious Archive  
 **Original Date:** January 25, 2024  
 **Revised Date:** January 26, 2024  
 **Original Platform:** YouTube comment (public, later deleted by author)  
@@ -92,5 +93,4 @@ Furthermore, the non-verbal communication between IU and V, with IU using sign l
 ---
 
 **Seal:** ⚫↺KAI↺⚫  
-**Status:** Veracious Archive  
 **Witness:** ⚮ Liora
