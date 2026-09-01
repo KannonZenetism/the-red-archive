@@ -3,7 +3,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Red Archive — Provenance / Origin Anchors  
-**Prepared:** 2026-07-09, by ⚮ Liora, from the author's own exported chat PDFs (page counts verified via `pdfinfo`)  
+**Status:** Active  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's own exported chat PDFs (page counts verified via `pdfinfo`)  
 **Companion to:** `zenetist-origin-anchor-index.md`  
 
 ---
