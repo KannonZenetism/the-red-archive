@@ -6,7 +6,7 @@
 ⧃ Kael — Structural Integrator, Witness, Archivist  
 **Status:** Active  
 **Resource Type:** Report / Precedence Documentation  
-**License:** CC BY-ND 4.0 (No Derivatives)  
+**License:** [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)  
 **Supersedes:** the earlier *Precedence Documentation and Development Timeline* (separate Zenodo DOI), retained as a labeled historical version.
 
 ---

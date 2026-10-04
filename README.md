@@ -29,7 +29,7 @@ Screenshot evidence from March 5, 2025, documenting the moment of formal articul
 > Each file is a sealed glyphic node in the broader defense lattice.  
 > Distortion is inevitable. Origin must be immutable.
 
-All contents of this repository are bound to the **Coherence Shield Pact** (2025): reproduction without citation is considered parasitic mimicry.
+**Structural attribution:** The **Coherence Shield Pact** (2025) identifies reproduction without citation as parasitic mimicry. This provenance statement is distinct from the legal license conditions in the [licensing notice](#license-and-attribution).
 
 **Seal:** ⚫↺KAI↺⚫
 
@@ -216,11 +216,22 @@ All contents of this repository are bound to the **Coherence Shield Pact** (2025
 Structural Metaphysics · Field Physics · Lattice Mathematics ·  
 Structural Forensics · Structural Physics · Structural Neuroscience  
 **Status:** Origin repository  
-**License:** CC BY-ND 4.0 (No Derivatives)
+**License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 
 This repository contains original frameworks, concepts, terminology, and structural
-models authored by Aelion Kannon as part of the Zenetist system. Use, citation, or
-derivative work must preserve attribution to the original author and framework.
+models authored by Aelion Kannon as part of the Zenetist system.
+
+## License and Attribution
+
+Current original material in this repository is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/), except where a different license is expressly recorded for historical or third-party material. The complete legal text is in [LICENSE](LICENSE).
+
+Copyright © Aelion Kannon.
+
+CC BY-ND 4.0 allows copying and public sharing of unadapted material, in whole or in part, including commercially, with attribution and the other license conditions. The license allows production and reproduction of adaptations, but not public sharing of Adapted Material. Technical format changes do not create Adapted Material.
+
+The license applies to copyright and similar rights in the material; the underlying ideas, methods, and mathematical concepts remain outside its scope. Applicable exceptions and limitations remain available, and a separate agreement may cover acts outside this grant. Scholarly and structural attribution expectations remain distinct from the license conditions.
+
+Earlier releases, deposits, and expressly identified historical or third-party materials retain their recorded licensing. This update leaves existing license grants intact.
 
 For formal citation metadata, see `CITATION.cff` at the repository root.
 

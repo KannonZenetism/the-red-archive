@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: >
-  If you use, reference, analyze, or derive work from materials in this repository,
+  If you reference, analyze, or build on materials in this repository,
   please cite it as follows. Attribution is required to preserve provenance and
   forensic integrity.
 
@@ -36,6 +36,6 @@ keywords:
   - Consciousness Research
   - Forensic Documentation
 
-license: CC-BY-NC-ND-4.0
+license: CC-BY-ND-4.0
 
 version: 1.0.0
