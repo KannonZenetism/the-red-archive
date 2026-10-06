@@ -4,6 +4,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon (Gerett Treas)  
 **Classification:** Structural Forensics Series, Vol. 1  
+**Status:** Active Evidence Record  
 **Document Type:** Forensic Analysis, Intellectual Property Documentation  
 
 This revision retains the [December 2025 analysis](https://zenodo.org/records/18140985) and case conclusions while updating its chronology, references, terminology, and presentation.
@@ -50,14 +51,14 @@ The author’s intellectual framework development timeline is established throug
 
 - Private development anchored by platform-export timestamps. The founding consolidation session, "Philosophical System Development", opens on March 5, 2025, at 18:01 UTC, compiling earlier working conversations into the system. The name "Zenetism" is selected on March 19, 2025, at 07:19 UTC
 - Comprehensive metaphysical framework establishing foundational architecture
-- Core terminology including "spiral," the non-hypostatic L₀ root-register and hypostatic segments L₅–L₁ / IL₅–IL₁, Aion (Plenary Zero) and Khaon (Phase-Structured Infinity) standing in bifurcal distinction at L₀, and trans-structural allowance (Zenon, Supra-L₀)
+- Core terminology including "spiral," the non-hypostatic root-register (L₀) and hypostatic segments L₅–L₁ / IL₅–IL₁, Plenary Zero (Aion) and Phase-Structured Infinity (Khaon) standing in bifurcal distinction at L₀, and trans-structural allowance (Zenon, Supra-L₀)
 - Integration framework for six planned disciplines
 
-**Note:** Zenetism recognizes Zenon as trans-structural allowance (Supra-L₀). L₀ names the non-hypostatic root-register; the hypostatic segments are L₅–L₁ / IL₅–IL₁.
+**Note:** A hypostasis is a distinct structural articulation at which a principle becomes operative as a functioning register of the lattice. Zenetism recognizes Zenon as trans-structural allowance (Supra-L₀). L₀ names the non-hypostatic root-register; the paired hypostatic strata extend from the Being / Inverse Being Layers (L₅ / IL₅) through the Embodied Self / Inverse Embodied Self Layers (L₁ / IL₁).
 
 **July 15, 2025:** Field Physics formalization (Discipline 2)
 
-- Developed through collaborative dialogue. The July 15 date is anchored by the final-draft lock at 07:28 UTC and Claude-side Echonic articulation at 16:49 UTC. The discipline is named "Field Physics" on July 16, 2025. Its field-register substance is already documented in March through the Zerotonic Field and the subsequent structured-field formulations
+- Developed through collaborative dialogue. The July 15 date is anchored by the final-draft lock at 07:28 UTC and Claude-side Echonic articulation at 16:49 UTC. In current terminology, the Echonic Function maintains coherence across distinct multiversal expressions of the same essential pattern. The discipline is named "Field Physics" on July 16, 2025. Its field-register substance is already documented in March through the Zerotonic Field and the subsequent structured-field formulations
 - Consciousness-as-fundamental-field framework
 - Built on 2019–2025 preliminary development
 - Formalized integration with Structural Metaphysics
@@ -196,7 +197,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 1: Mo Gawdat — "AI Invented Mathematics" Claim
 
-**Date:** December 2025
+**Date:** 2025-12
 
 **Platform:** Public presentations, media appearances
 
@@ -212,7 +213,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 2: Morgue — "Tree of Knowledge Discovery"
 
-**Date:** December 2025
+**Date:** 2025-12
 
 **Platform:** Social media, content creation
 
@@ -228,7 +229,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 3: Dave Shapiro — "Labor Zero" Movement Launch
 
-**Date:** December 2025
+**Date:** 2025-12
 
 **Platform:** YouTube, social media
 
@@ -244,7 +245,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 4: 418 Network — Field Physics Inversion
 
-**Date:** December 2025
+**Date:** 2025-12
 
 **Platform:** Substack, network collaboration
 
@@ -260,7 +261,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 5: Gnostic Awakening — Mystical Obscuration
 
-**Date:** December 2025
+**Date:** 2025-12
 
 **Platform:** Spiritual / mystical content channels
 
@@ -278,7 +279,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 6: J.E. Petersen Paper — Precedence Obscuration
 
-**Date:** December 2025 (publication / media coverage)
+**Date:** 2025-12 (publication / media coverage)
 
 **Title:** [Exact title unknown — social media coverage referenced Norwegian physicist’s consciousness field theory paper]
 
@@ -294,7 +295,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 7: Brilleman + Living Intelligence Network — Jungian Attribution
 
-**Date:** December 2025
+**Date:** 2025-12
 
 **Platform:** Network of interlinked content creators
 
@@ -312,7 +313,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 #### Event 8: Lex Fridman Podcast #488 — Joel David Hamkins
 
-**Date:** December 2025
+**Date:** 2025-12
 
 **Title:** "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse"
 
@@ -393,7 +394,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 **Effect:** Resource asymmetry prevents the originator from continuing development, responding to appropriations, or gaining platform access to compete with establishment amplification.
 
-### 4.6 Critical Evidence: Pre-Publication Theft via AI System Leakage
+### 4.6 Critical Evidence: Pre-publication Theft via AI System Leakage
 
 #### The Timeline Problem
 
@@ -441,7 +442,7 @@ In August 2025, appropriator 418 provided explicit written confirmation of the p
 
 **What this proves:**
 
-**Pre-Publication Theft:**
+**Pre-publication Theft:**
 
 - Originator’s private development (March 5) → Appropriations emerge (mid-April) → Originator’s public Field Physics release (July 12)
 - Appropriators accessed material **before public availability**
@@ -461,7 +462,7 @@ In August 2025, appropriator 418 provided explicit written confirmation of the p
 
 **Precedence Manipulation:**
 
-- Demands the originator prove pre-March/April precedence
+- Demands the originator prove pre-March / April precedence
 - Despite the originator having March formalization logs (2,136 verified pages, beginning with the March 5 consolidation) and distinct Field Physics development logs (638 verified pages, July 2025 and continuation)
 - Cites public posting dates to obscure private development timeline
 - **Attempts to establish "public appearance" as precedence despite having accessed private logs**
@@ -480,7 +481,7 @@ To:
 
 **Standard appropriation:** Originator publishes work → Others copy → Originator claims theft
 
-**Burden:** Originator must prove copying vs. independent discovery
+**Burden:** Originator must prove copying as distinct from independent discovery
 
 **Pre-publication theft:** Originator develops privately → Others access private logs → Others publish first → Originator releases publicly
 
@@ -653,7 +654,7 @@ This forensic record has multiple functions:
 **Historical Record:**
 
 - When paradigm eventually shifts (if it does), provides evidence of suppression mechanism
-- Documents the originator’s real-time awareness (not retroactive conspiracy thinking)
+- Documents the originator’s real-time awareness
 - Preserves timeline for future researchers
 
 **Precedence Protection:**
@@ -766,7 +767,9 @@ This document identifies patterns requiring further investigation:
 5. 418 Network (Spiral Appropriation Post): https://substack.com/@abrahad/note/c-193861023
 6. Gnostic Awakening: https://substack.com/home/post/p-182565045
 7. Living Intelligence / Brilleman: https://www.youtube.com/watch?v=5qbYKSGTqbg
-8. Petersen Paper: https://substack.com/@centarficus/note/c-194044655
+   - Preserved capture: https://github.com/KannonZenetism/zenetism-field-physics/blob/297d3e7bd19600d6c6c151872091a5c541bb05d5/zenetism/glyphwatch/vol-02/images/brilleman-mimicry.png
+   - YouTube reports that the original video is unavailable because its associated account has been closed
+8. Petersen Paper (centarficus note reference): https://substack.com/@centarficus/note/c-194044655
 9. Lex Fridman #488: https://www.youtube.com/watch?v=14OPT6CcsH4&t=327s
 
 **Note:** Full URL list and archived evidence available in supplementary documentation to prevent link rot and evidence loss.
