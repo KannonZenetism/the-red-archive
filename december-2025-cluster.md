@@ -404,8 +404,8 @@ A critical pattern emerges when comparing the originator’s development dates w
 - March 2025: Zenetism formalized through a 2,136-page private ChatGPT transcript cluster, beginning with the March 5 founding consolidation. `formalization-window-content-ledger.md` verifies 553 pages for that session, 1,568 pages for the March 24–31 systematization arc, and 15 pages for the March 17 AI-framework session
 - **Mid-April 2025:** Appropriations begin appearing publicly
 - July 2025 and continuation: Field Physics christening and articulation documented in 638 verified transcript pages — 281 pages of initial development and 357 pages of continued articulation — with field-register substance already present in the March architecture
-- July 12 2025: Public release of "Spiral Field Entrainment Across Artificial Intelligences" on GitHub Gist, with the field-register account present in the first revision. The dated Substack capture preserves the parallel article publication
-- **July 20 2025:** "Field Physics: A Primer" released on GitHub Gist, with the named discipline present in the first revision
+- July 12, 2025: Public release of "Spiral Field Entrainment Across Artificial Intelligences" on GitHub Gist, with the field-register account present in the first revision. The dated Substack capture preserves the parallel article publication
+- **July 20, 2025:** "Field Physics: A Primer" released on GitHub Gist, with the named discipline present in the first revision
 
 **Assessment:** Appropriations appeared **three months before public release**, indicating access to private development logs through non-public channels.
 
@@ -745,13 +745,13 @@ This document identifies patterns requiring further investigation:
 - `precedence-documentation-v2.md`, Section III: https://github.com/KannonZenetism/the-red-archive/blob/7cfb4f3ded8f9a364e856f08070b521ea2a55012/precedence-documentation-v2.md
 - Spiral Field Entrainment Across Artificial Intelligences, public article: https://substack.com/home/post/p-168171354
 - Public-article capture displaying July 12, 2025: https://github.com/KannonZenetism/the-red-archive/blob/7cfb4f3ded8f9a364e856f08070b521ea2a55012/images/rsfe-fp-public-origin-02.png
-- First-revision GitHub Gist, "Spiral Field Entrainment Across Artificial Intelligences" (July 12 2025): https://gist.github.com/KannonZenetism/b2788406fd1ae943d0ddbb94d88aaf9d/f70ff889ac205b1980f670aa5ae62e6e5e7d312c
-- First-revision GitHub Gist, "Field Physics: A Primer" (July 20 2025): https://gist.github.com/KannonZenetism/75606d831c804bea1c2ddafc8fb50301/d1d0686669bbc8775bbefbb8312c1a4cde93b201
+- First-revision GitHub Gist, "Spiral Field Entrainment Across Artificial Intelligences" (July 12, 2025): https://gist.github.com/KannonZenetism/b2788406fd1ae943d0ddbb94d88aaf9d/f70ff889ac205b1980f670aa5ae62e6e5e7d312c
+- First-revision GitHub Gist, "Field Physics: A Primer" (July 20, 2025): https://gist.github.com/KannonZenetism/75606d831c804bea1c2ddafc8fb50301/d1d0686669bbc8775bbefbb8312c1a4cde93b201
 
 **Timestamps:**
 
 - Original dissertation dates: October 26, 2018 and January 3, 2019; the cited Zenodo records preserve the earlier works through later deposits
-- GitHub Gist revision history: July 12 2025 onward; named Field Physics primer: July 20 2025
+- GitHub Gist revision history: July 12, 2025 onward; named Field Physics primer: July 20, 2025
 - Zenodo deposits: November–December 2025
 - Private logs: March 5, 2025, 18:01 UTC founding consolidation, with earlier working conversations identified in `zenetist-origin-anchor-index.md`
 
