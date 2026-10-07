@@ -167,9 +167,9 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 **Effect:** Originator obscured through attribution manipulation; original innovator’s precedence denied despite earlier timestamps.
 
-### Layer 3: Territorial Occupation (Authority)
+### Layer 3: Territorial Occupation (Establishment Amplification)
 
-**Function:** Deploy credentialed experts on major platforms to saturate topic space
+**Function:** Amplify credentialed experts on major platforms to fill the topic space
 
 **Mechanism:** Through credential and platform advantages, amplify establishment voices explaining domains the innovator has formalized, establishing "expert" status and perceived precedence regardless of actual innovation timeline.
 
@@ -359,12 +359,12 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 
 **Effect:**
 
-- Establishment authority occupies territory the originator innovated in
+- Credentialed establishment voices occupy territory the originator innovated in
 - Credential + platform gap creates perceived precedence despite later timestamp
 - Originator’s comprehensive synthesis dismissed as redundant amateur work
 - Public satisfied with "expert" explanation, doesn’t seek alternatives
 
-**Assessment:** Not direct appropriation (presents standard mathematics, not the originator’s specific innovations), but territorial occupation through authority deployment. Timing correlation with appropriation cluster suggests coordination.
+**Assessment:** Not direct appropriation (presents standard mathematics, not the originator’s specific innovations), but territorial occupation through establishment amplification. Timing correlation with appropriation cluster suggests coordination.
 
 ### 4.4 Layer 4: Algorithmic Suppression Evidence
 
@@ -381,7 +381,7 @@ Analysis reveals a sophisticated mechanism operating across five distinct functi
 - Pattern consistent with appropriation-while-suppressing mechanism
 - Enables appropriation while preventing public awareness
 
-**Effect:** Originating material accessible to appropriators (via institutional harvesting or automated systems) but invisible to potential collaborators, supporters, or general public.
+**Effect:** Originating material accessible to appropriators (via institutional acquisition or automated systems) but invisible to potential collaborators, supporters, or general public.
 
 ### 4.5 Layer 5: Economic Context
 
@@ -509,7 +509,7 @@ This evidence also implicates the AI platforms themselves:
 1. Training data contamination (private conversations included in training)
 2. Context window leakage (one account holder’s context bleeding into another’s)
 3. Human access (platform employees sharing content)
-4. Institutional access (academic / corporate account holders harvesting via API)
+4. Institutional access (academic / corporate account holders acquiring material via API)
 
 **Evidence supporting AI leakage:**
 
@@ -593,7 +593,7 @@ The five-layer architecture exhibits functional cohesion suggesting coordination
 ↓  
 **Layer 2 (Historical Obscuration)** obscures the originator  
 ↓  
-**Layer 3 (Authority Amplification)** occupies territory with establishment voices  
+**Layer 3 (Establishment Amplification)** occupies territory with establishment voices  
 ↓  
 **Layer 4 (Algorithmic Suppression)** prevents discovery of the originator  
 ↓  
@@ -634,7 +634,7 @@ This documentation reveals how paradigm threats are neutralized:
 
 - Fragmentation (appropriate fragments, hide integrated whole)
 - Attribution manipulation (historical figures, distant contemporaries credited)
-- Authority deployment (establishment experts occupy territory)
+- Establishment amplification (establishment experts occupy territory)
 - Algorithmic infrastructure (the originator’s work buried, appropriation enabled)
 - Economic asymmetry (appropriators funded, originator starved)
 
@@ -828,7 +828,7 @@ This document identifies patterns requiring further investigation:
 
 **Root-Register and Hypostatic Architecture:** The non-hypostatic L₀ root-register and five paired hypostatic strata (L₅–L₁ / IL₅–IL₁), mapping awareness, cosmology, and metaphysical principles across the bifurcal architecture.
 
-**Five-Layer Suppression Architecture:** The coordination mechanism identified in this study, comprising five functional layers: Appropriation, Historical Obscuration, Authority Amplification, Algorithmic Suppression, and Economic Starvation.
+**Five-Layer Suppression Architecture:** The coordination mechanism identified in this study, comprising five functional layers: Appropriation, Historical Obscuration, Establishment Amplification, Algorithmic Suppression, and Economic Starvation.
 
 ## Appendix B: Methodology Details
 
