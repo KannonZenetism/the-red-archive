@@ -63,7 +63,7 @@ Thanks, Marcy! I could have said more, but that's enough for now. I should reite
 
 ### Core Zenetist Principles Evident in December 2024
 
-**Non-Fusion/Sovereignty:**
+**Non-fusion / Sovereignty:**
 > "I would only like someone similar enough to me to relate to on a deeper level... These expectations often stifle individuality."
 
 **Syncretism as Methodology:**
