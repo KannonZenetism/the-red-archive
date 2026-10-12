@@ -2,7 +2,7 @@
 ## Three Tiers: What Is Established, What Is Asserted, What Is Held Open
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Red Archive — Governing Statement (epistemic position)  
+**Classification:** Red Archive — Reference Statement (epistemic position)  
 **Prepared:** 2026-07-21, by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Status:** Draft — architect review  
 **Purpose:** To state, in one place and in the author's own terms, which claims are established, which are asserted from documented observation, and which are held open as hypotheses. Any characterization of the author's position that collapses these tiers is a misreading, and this statement is the reference against which such readings are corrected.  
