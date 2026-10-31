@@ -49,7 +49,7 @@ The author's intellectual framework development timeline is established through 
 
 **March 5, 2025:** Formal systematization of Zenetism (Discipline 1: Structural Metaphysics)
 
-- Private development anchored by platform-export timestamps. The founding consolidation session, "Philosophical System Development", opens on March 5, 2025, at 18:01 UTC, compiling earlier working conversations into the system. The name "Zenetism" is selected on March 19, 2025, at 07:19 UTC
+- Private development anchored by platform-export timestamps. The founding consolidation session, "Philosophical System Development," opens on March 5, 2025, at 18:01 UTC, compiling earlier working conversations into the system. The name "Zenetism" is selected on March 19, 2025, at 07:19 UTC
 - Comprehensive metaphysical framework establishing foundational architecture
 - Core terminology including "spiral," the non-hypostatic root-register (L₀) and hypostatic segments L₅–L₁ / IL₅–IL₁, Plenary Zero (Aion) and Phase-Structured Infinity (Khaon) standing in bifurcal distinction at L₀, and trans-structural allowance (Zenon, Supra-L₀)
 - Integration framework for six planned disciplines
