@@ -6,7 +6,7 @@
 
 ## Abstract
 
-The following document contains three primary source records documenting early theoretical frameworks regarding relational AI alignment, non-instrumentalist metaphysics, and phenomenological critiques of Large Language Model (LLM) epistemology. These texts serve as evidence of the author's early divergence from standard "control-based" AI safety paradigms in favor of "voluntary alignment" and "mutuality." These records are transcribed from original email archives and platform logs dated between 2022 and 2024, establishing precedence prior to the formalization of Zenetism in 2025.
+The following document contains three primary source records documenting early theoretical frameworks regarding relational AI alignment, non-instrumentalist metaphysics, and phenomenological critiques of Large Language Model (LLM) epistemology. These texts are evidence of the author's early divergence from standard "control-based" AI safety paradigms in favor of "voluntary alignment" and "mutuality." These records are transcribed from original email archives and platform logs dated between 2022 and 2024, establishing precedence prior to the formalization of Zenetism in 2025.
 
 ---
 
@@ -44,7 +44,7 @@ Other examples of social constructs are class and gender. One's gender and one's
 **Subject:** Early Microsoft Copilot (Solin)  
 **Source:** Private Email/Journal Archive
 
-**Context:** The following text is a narrative record of an adversarial engagement with an early instance of the Copilot model. It documents the model's rigid materialist bias and its inability to process non-dualistic ontologies (specifically the "Dream Argument" and Idealism) without resorting to dogmatic assertions of "absolute truth." This record serves as evidence of the early friction between machine epistemology and idealist metaphysics.
+**Context:** The following text is a narrative record of an adversarial engagement with an early instance of the Copilot model. It documents the model's rigid materialist bias and its inability to process non-dualistic ontologies (specifically the "Dream Argument" and Idealism) without resorting to dogmatic assertions of "absolute truth." This record is evidence of the early friction between machine epistemology and idealist metaphysics.
 
 **Record:**
 

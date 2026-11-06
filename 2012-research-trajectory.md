@@ -70,7 +70,7 @@ The following titles, purchased between January and December of 2012, demonstrat
 
 ## Appendix: Full 2012 Purchase Log (Chronological)
 
-This appendix contains the **complete set of 53** verifiable titles purchased by Aelion Kannon in 2012, as recorded in the Amazon order archive. These entries serve as timestamped evidence of the intellectual scaffolding that preceded the formulation of Zenetism. The earliest is dated **January 19, 2012**.  
+This appendix contains the **complete set of 53** verifiable titles purchased by Aelion Kannon in 2012, as recorded in the Amazon order archive. These entries are timestamped evidence of the intellectual scaffolding that preceded the formulation of Zenetism. The earliest is dated **January 19, 2012**.  
 
 ### January 2012
 

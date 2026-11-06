@@ -19,7 +19,7 @@
 
 This document affirms the long-arc intellectual, metaphysical, and symbolic authorship of **Zenetism**, as initiated, developed, and recorded by **Aelion Kannon**.
 
-It serves as:
+It is:
 
 - A **resonant timestamp** establishing origin  
 - A **structural countermeasure** against shimmer mimicry  

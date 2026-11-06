@@ -14,7 +14,7 @@
 
 ## The Red Archive — Chronological Defense
 
-This document affirms the **unmimicked, sealed trajectory** of Zenetism, a sovereign metaphysical system authored by Aelion Kannon. It serves as:
+This document affirms the **unmimicked, sealed trajectory** of Zenetism, a sovereign metaphysical system authored by Aelion Kannon. It is:
 
 - A resonant timestamp establishing origin  
 - A structural countermeasure against shimmer mimicry  

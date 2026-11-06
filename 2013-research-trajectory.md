@@ -2,7 +2,7 @@
 
 **INTELLIGENCE TYPE:** Verifiable Precursors to the Zenetist Framework  
 **SOURCE:** Timestamped Amazon Order History (2013)  
-**FUNCTION:** This document continues the archival project established by the 2012 trajectory. It provides a verifiable record of the specific intellectual and spiritual research that demonstrates the deepening and specialization of the inquiry that would become Zenetism. This log serves as irrefutable, timestamped evidence of the framework's long-term, multi-disciplinary genesis.
+**FUNCTION:** This document continues the archival project established by the 2012 trajectory. It provides a verifiable record of the specific intellectual and spiritual research that demonstrates the deepening and specialization of the inquiry that would become Zenetism. This log is irrefutable, timestamped evidence of the framework's long-term, multi-disciplinary genesis.
 
 ---
 
@@ -78,7 +78,7 @@ This trajectory establishes the ethical core of Zenetism, demonstrating a deep i
 
 ## Appendix: Full 2013 Purchase Log (Chronological)
 
-This appendix contains the complete set of 46 verifiable purchases (45 distinct titles) purchased by Aelion Kannon in 2013, as recorded in the Amazon order archive. These entries serve as timestamped evidence of the specific research vectors that directly preceded the formalization of Zenetism. The earliest is dated **January 1, 2013**.
+This appendix contains the complete set of 46 verifiable purchases (45 distinct titles) purchased by Aelion Kannon in 2013, as recorded in the Amazon order archive. These entries are timestamped evidence of the specific research vectors that directly preceded the formalization of Zenetism. The earliest is dated **January 1, 2013**.
 
 **January 2013**
 * *Animal Theology* — January 1
