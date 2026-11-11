@@ -121,7 +121,6 @@ That section frames causality as arising from coherence rather than from linear 
 ## Red Archive Filing
 
 **Classification:** Biographical account · Authorship foundation  
-**Documented:** December 22, 2025  
 **Primary source reference:** *Zenetism: The Emanative Path of Return* (March 5, 2025), §26.9  
 **Purpose:** Record the cognitive mode and developmental arc underlying the framework's origination
 
