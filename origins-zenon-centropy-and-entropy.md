@@ -5,7 +5,6 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Developmental Note — Canon Genealogy  
 **Status:** Draft for Review  
-**Date:** 2026-06-18  
 **Dependencies:** metaphysics-symbol-key.md; Zenon; Centropy / Entropy distinction; Bifurcal architecture; Theonic Axis / Nekronic Axis; Structural Coherence; Resonance Spiral  
 **Related Registers:** Zenon · Centropy · Entropy · Fragmentation · Structural Coherence · Theonic Axis · Nekronic Axis · Bifurcal Coherence
 
